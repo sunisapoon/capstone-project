@@ -1,0 +1,601 @@
+stock,headline,source,date,time,cleaned_headline,neg,neu,pos,compound,sentiment_label
+TSLA,"Polestar Upgrades Model, Hits EV Production Milestone. Why Its Still Losing Ground to Tesla.",(Barrons.com),Aug-23-23,09:07AM,polestar upgrade model hit ev production milestone still losing ground tesla,0.167,0.833,0.0,-0.3818,Negative
+TSLA,15 Highest Paying Countries for Engineers,(Insider Monkey),Aug-23-23,09:07AM,highest paying country engineer,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla's German plant lowers production target amid slower output - Business Insider,(Reuters),Aug-23-23,09:07AM,tesla german plant lower production target amid slower output business insider,0.13,0.87,0.0,-0.128,Negative
+TSLA,"Down 9% in the Past 5 Days, Is Now the Right Time to Buy Bitcoin?",(Motley Fool),Aug-23-23,09:07AM,past day right time buy bitcoin,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla's German plant lowers production target amid slower output - Business Insider,(Reuters),Aug-23-23,09:07AM,tesla german plant lower production target amid slower output business insider,0.13,0.87,0.0,-0.128,Negative
+TSLA,"Malaysia was so eager to get Elon Musk to invest in the country, it waived its decades-old policies for Tesla",(Fortune),Aug-23-23,09:07AM,malaysia eager get elon musk invest country waived decadesold policy tesla,0.0,0.854,0.146,0.5009,Positive
+TSLA,Buying These 2 Stocks Could Be the Smartest Investing Move You Ever Make,(Motley Fool),Aug-23-23,09:07AM,buying stock could smartest investing move ever make,0.0,0.733,0.267,0.6124,Positive
+TSLA,Is Nvidia the New Tesla? Options Traders Place Their Bets,(The Wall Street Journal),Aug-23-23,09:07AM,nvidia new tesla option trader place bet,0.0,1.0,0.0,0.0,Neutral
+TSLA,"How to Trade an Uncertain China: Buy Qualcomm Stock, Sell Tesla",(Barrons.com),Aug-23-23,09:07AM,trade uncertain china buy qualcomm stock sell tesla,0.18,0.82,0.0,-0.296,Negative
+TSLA,Graphite Wars: The Trillion Dollar Battery Race Has A Big Problem,(Oilprice.com),Aug-22-23,07:01PM,graphite war trillion dollar battery race big problem,0.441,0.559,0.0,-0.743,Negative
+TSLA,"Car buyers feeling the pinch of higher prices, payments",(Yahoo Finance Video),Aug-22-23,07:01PM,car buyer feeling pinch higher price payment,0.0,0.842,0.158,0.128,Positive
+TSLA,Hot new bad idea,(Financial Times),Aug-22-23,07:01PM,hot new bad idea,0.538,0.462,0.0,-0.5423,Negative
+TSLA,Tesla Rebound Hits Resistance As Another Executive Steps Down,(Investor's Business Daily),Aug-22-23,07:01PM,tesla rebound hit resistance another executive step,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla is testing a new feature that may be extremely helpful (especially in these areas),(TheStreet.com),Aug-22-23,07:01PM,tesla testing new feature may extremely helpful especially area,0.0,0.808,0.192,0.4754,Positive
+TSLA,Tesla to lease huge warehouses in Kyle,(American City Business Journals),Aug-22-23,07:01PM,tesla lease huge warehouse kyle,0.0,0.723,0.277,0.3182,Positive
+TSLA,Rishi Sunak to woo Elon Musk after Tesla billionaires meetings with Macron,(The Telegraph),Aug-22-23,07:01PM,rishi sunak woo elon musk tesla billionaire meeting macron,0.0,0.78,0.22,0.4767,Positive
+TSLA,Today's EV Updates,(Benzinga),Aug-22-23,07:01PM,today ev update,0.0,1.0,0.0,0.0,Neutral
+TSLA,Has Nvidia become the new Tesla for markets?,(Yahoo Finance Video),Aug-22-23,07:01PM,nvidia become new tesla market,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Tesla Stock Surges on Cybertruck Launch, Model 3 Refresh",(Zacks),Aug-22-23,07:01PM,tesla stock surge cybertruck launch model refresh,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla Stock Has Been Dead Money for Some Investors,(Barrons.com),Aug-22-23,07:01PM,tesla stock dead money investor,0.35,0.65,0.0,-0.6486,Negative
+TSLA,Elon Musk takes a jab at Tesla's competitors,(TheStreet.com),Aug-22-23,07:01PM,elon musk take jab tesla competitor,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla Rebound Gathers Momentum After Q2 Selloff; Are China Concerns Overblown?,(Investor's Business Daily),Aug-22-23,07:01PM,tesla rebound gather momentum q selloff china concern overblown,0.0,1.0,0.0,0.0,Neutral
+TSLA,Texas Mandates Tesla's (TSLA) NACS Plugs for New Stations,(Zacks),Aug-22-23,07:01PM,texas mandate tesla tsla nac plug new station,0.0,1.0,0.0,0.0,Neutral
+TSLA,3 Catalysts to Take Tesla Stock to $300,(Motley Fool),Aug-22-23,07:01PM,catalyst take tesla stock,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Prediction: 3 Unstoppable Stocks Set to Join Apple, Microsoft, Amazon, Alphabet, and Nvidia in the $1 Trillion Club by 2030",(Motley Fool),Aug-22-23,07:01PM,prediction unstoppable stock set join apple microsoft amazon alphabet nvidia trillion club,0.083,0.737,0.18,0.2732,Positive
+TSLA,"Tesla Stock Snapped Its Losing Streak. These Catalysts Are Helping, Says Analyst.",(Barrons.com),Aug-21-23,04:39PM,tesla stock snapped losing streak catalyst helping say analyst,0.176,0.676,0.149,-0.1027,Negative
+TSLA,"S&P 500: Cybersecurity Giant Soars On Earnings; Tesla, Nvidia Are Big Winners",(Investor's Business Daily),Aug-21-23,04:39PM,sp cybersecurity giant soar earnings tesla nvidia big winner,0.0,0.78,0.22,0.4767,Positive
+TSLA,Stock Market Today: Tech Stocks Soar as Bargain Hunters Swoop In,(Kiplinger),Aug-21-23,04:39PM,stock market today tech stock soar bargain hunter swoop,0.0,0.847,0.153,0.2023,Positive
+TSLA,"Tesla Bounces Back As Cybertruck, New Model 3 Excitement Take Over; Is TSLA's Slide Over?",(Investor's Business Daily),Aug-21-23,04:39PM,tesla bounce back cybertruck new model excitement take tslas slide,0.0,0.802,0.198,0.4939,Positive
+TSLA,"Tesla stock rises, AMC's stock conversion: Trending stocks",(Yahoo Finance Video),Aug-21-23,04:39PM,tesla stock rise amcs stock conversion trending stock,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla says two ex-employees behind May data breach,(Reuters),Aug-21-23,04:39PM,tesla say two exemployees behind may data breach,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla facility in Baltimore County to lay off 55 workers,(American City Business Journals),Aug-21-23,04:39PM,tesla facility baltimore county lay worker,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Meta's Threads Prepares To Counter Elon Musk's X, Tesla Data Breach Affects Over 75K People, Medical Properties Trust's Prospect Medical Deal On Hold: Today's Top Stories",(Benzinga),Aug-21-23,04:39PM,metas thread prepares counter elon musk x tesla data breach affect k people medical property trust prospect medical deal hold today top story,0.0,0.857,0.143,0.4588,Positive
+TSLA,Electric vehicles hitting legislative speed bumps in several states,(TheStreet.com),Aug-21-23,04:39PM,electric vehicle hitting legislative speed bump several state,0.0,1.0,0.0,0.0,Neutral
+TSLA,Why Tesla Stock Might Break Its Losing Streak Today,(Motley Fool),Aug-21-23,04:39PM,tesla stock might break losing streak today,0.245,0.755,0.0,-0.3818,Negative
+TSLA,Electric Pickups Are Upleveling The Power Of EVs,(Benzinga),Aug-21-23,04:39PM,electric pickup upleveling power ev,0.0,1.0,0.0,0.0,Neutral
+TSLA,Is Tesla Inc (TSLA) Significantly Undervalued? A Comprehensive Valuation Analysis,(GuruFocus.com),Aug-21-23,04:39PM,tesla inc tsla significantly undervalued comprehensive valuation analysis,0.0,0.8,0.2,0.25,Positive
+TSLA,Why investors may not need to worry too much about China's economy,(Yahoo Finance Video),Aug-21-23,04:39PM,investor may need worry much china economy,0.0,0.821,0.179,0.3412,Positive
+TSLA,How Kevin O'Leary's son talked him into buying Tesla stock,(TheStreet.com),Aug-21-23,04:39PM,kevin olearys son talked buying tesla stock,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Tesla Stock Is Set to Snap Its Losing Streak. These Catalysts Will Help, Says Analyst.",(Barrons.com),Aug-21-23,04:39PM,tesla stock set snap losing streak catalyst help say analyst,0.142,0.71,0.148,0.0258,Positive
+TSLA,"Tesla's Employee Data Leak, Full Self-Driving Problem and Using Siri for Car Commands: Top Stories For Elon Musk Led EV Company Today",(Benzinga),Aug-21-23,04:39PM,tesla employee data leak full selfdriving problem using siri car command top story elon musk led ev company today,0.197,0.734,0.069,-0.5106,Negative
+TSLA,"Investors Heavily Search Tesla, Inc. (TSLA): Here is What You Need to Know",(Zacks),Aug-21-23,04:39PM,investor heavily search tesla inc tsla need know,0.0,1.0,0.0,0.0,Neutral
+TSLA,Global EV Market Share by Company: Top 15 Companies,(Insider Monkey),Aug-21-23,04:39PM,global ev market share company top company,0.0,0.636,0.364,0.4588,Positive
+TSLA,9 Plunging Stocks Suffer 50% Of S&P 500's $2 Trillion Meltdown,(Investor's Business Daily),Aug-21-23,04:39PM,plunging stock suffer sp trillion meltdown,0.28,0.72,0.0,-0.5423,Negative
+TSLA,"Down 21% in the Last Month, Is Tesla Stock a Buy Now?",(Motley Fool),Aug-21-23,04:39PM,last month tesla stock buy,0.0,1.0,0.0,0.0,Neutral
+TSLA,Shanghai free trade zone vows 2-hour approvals for 'high-growth' projects to woo foreign capital as China's inward investments slump,(South China Morning Post),Aug-21-23,04:39PM,shanghai free trade zone vow hour approval highgrowth project woo foreign capital china inward investment slump,0.0,0.726,0.274,0.7506,Positive
+TSLA,3 Stock-Split Stocks Billionaires Are Selling and the 1 Surprising Stock-Split Stock They're Piling Into,(Motley Fool),Aug-21-23,04:39PM,stocksplit stock billionaire selling surprising stocksplit stock theyre piling,0.0,0.851,0.149,0.2732,Positive
+TSLA,"Palo Alto, Tesla, Nvidia rise premarket; Napco, Nikola fall",(Investing.com),Aug-21-23,04:39PM,palo alto tesla nvidia rise premarket napco nikola fall,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Tesla Data Breach Blamed on Insider Wrongdoing Impacted 75,000",(Bloomberg),Aug-20-23,05:13PM,tesla data breach blamed insider wrongdoing impacted,0.279,0.721,0.0,-0.4767,Negative
+TSLA,Michael Burrys Top 10 Stock Picks For Q3,(Insider Monkey),Aug-20-23,05:13PM,michael burrys top stock pick q,0.0,0.795,0.205,0.2023,Positive
+TSLA,Texas mandates new EV charging stations use the Tesla NACS plug,(Autoblog),Aug-20-23,05:13PM,texas mandate new ev charging station use tesla nac plug,0.0,1.0,0.0,0.0,Neutral
+TSLA,Cathie Wood Just Sold Tesla and Shopify -- and Bought This Potentially Explosive Growth Stock,(Motley Fool),Aug-20-23,05:13PM,cathie wood sold tesla shopify bought potentially explosive growth stock,0.0,0.843,0.157,0.3818,Positive
+TSLA,Tesla continues waging price war; VinFast makes U.S. debut: This week in EVs,(Investing.com),Aug-20-23,05:13PM,tesla continues waging price war vinfast make u debut week ev,0.245,0.755,0.0,-0.5994,Negative
+TSLA,This week in tech: Analysts sweet on Nvidia; Tesla cuts prices again,(Investing.com),Aug-20-23,05:13PM,week tech analyst sweet nvidia tesla cut price,0.145,0.658,0.197,0.2023,Positive
+TSLA,"Tesla data breach affects 75,735 people, state attorney general announces",(Fox Business),Aug-19-23,12:48PM,tesla data breach affect people state attorney general announces,0.0,1.0,0.0,0.0,Neutral
+TSLA,Good News for Tesla Investors. Bad News for Tesla Stock.,(Motley Fool),Aug-19-23,12:48PM,good news tesla investor bad news tesla stock,0.243,0.556,0.201,-0.1531,Negative
+TSLA,2 Unstoppable Stocks That Could Join the $1 Trillion Club,(Motley Fool),Aug-19-23,12:48PM,unstoppable stock could join trillion club,0.164,0.636,0.2,0.1027,Positive
+TSLA,Elon Musks Latest Antics Have Some Asking: Is He Out of Touch?,(The Wall Street Journal),Aug-19-23,12:48PM,elon musk latest antic asking touch,0.0,1.0,0.0,0.0,Neutral
+TSLA,Best Stocks to Buy: Tesla Stock vs. Ford Stock,(Motley Fool),Aug-19-23,12:48PM,best stock buy tesla stock v ford stock,0.0,0.656,0.344,0.6369,Positive
+TSLA,Tesla Stock Went Down Again for a New Reason. Heres Where Its Going.,(Barrons.com),Aug-18-23,05:17PM,tesla stock went new reason here going,0.0,1.0,0.0,0.0,Neutral
+TSLA,These Are The 5 Best EV Stocks To Buy And Watch Now,(Investor's Business Daily),Aug-18-23,05:17PM,best ev stock buy watch,0.0,0.704,0.296,0.6369,Positive
+TSLA,XPeng Stock Tumbles. Something Other Than Earnings Is Leading It Lower.,(Barrons.com),Aug-18-23,05:17PM,xpeng stock tumble something earnings leading lower,0.18,0.82,0.0,-0.296,Negative
+TSLA,Tesla proposes 3rd service and sales center in Miami-Dade,(American City Business Journals),Aug-18-23,05:17PM,tesla proposes rd service sale center miamidade,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla Stock Is Down Again for a New Reason. Heres Where Its Going.,(Barrons.com),Aug-18-23,05:17PM,tesla stock new reason here going,0.0,1.0,0.0,0.0,Neutral
+TSLA,XPeng Succumbed To Tesla's Price War But Rising Deliveries Provide Hints Of Recovery,(Benzinga),Aug-18-23,05:17PM,xpeng succumbed tesla price war rising delivery provide hint recovery,0.17,0.83,0.0,-0.3506,Negative
+TSLA,Is Tesla (TSLA) a Hidden Gem? A Deep Dive into its Valuation and Financial Health,(GuruFocus.com),Aug-18-23,05:17PM,tesla tsla hidden gem deep dive valuation financial health,0.0,1.0,0.0,0.0,Neutral
+TSLA,Elon Musk's SpaceX reportedly turned a profit in Q1,(Yahoo Finance Video),Aug-18-23,05:17PM,elon musk spacex reportedly turned profit q,0.0,0.707,0.293,0.4404,Positive
+TSLA,Tesla (TSLA) Down 16.6% Since Last Earnings Report: Can It Rebound?,(Zacks),Aug-18-23,05:17PM,tesla tsla since last earnings report rebound,0.0,1.0,0.0,0.0,Neutral
+TSLA,Shares Of Chinese EV Maker Xpeng Slide on Earnings Loss,(Investopedia),Aug-18-23,05:17PM,share chinese ev maker xpeng slide earnings loss,0.184,0.64,0.176,-0.0258,Negative
+TSLA,Stock Market Correction Takes Hold As Treasury Yields Hit 15-Year High: Weekly Review,(Investor's Business Daily),Aug-18-23,05:17PM,stock market correction take hold treasury yield hit year high weekly review,0.0,0.87,0.13,0.2023,Positive
+TSLA,Why your new electric car won't have a spare tire. And why you probably don't need one,(LA Times),Aug-18-23,05:17PM,new electric car wont spare tire probably dont need one,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Zacks Investment Ideas feature highlights: Chicago Mercantile Exchange, Nvidia, Microsoft and Tesla",(Zacks),Aug-18-23,05:17PM,zacks investment idea feature highlight chicago mercantile exchange nvidia microsoft tesla,0.0,1.0,0.0,0.0,Neutral
+TSLA,XPeng Stock Tumbles on Wider-Than-Expected Loss,(Barrons.com),Aug-18-23,05:17PM,xpeng stock tumble widerthanexpected loss,0.315,0.685,0.0,-0.3182,Negative
+TSLA,Bitcoin Could Fall Another 25%. Will Elon Musk and SpaceX Be to Blame?,(Barrons.com),Aug-18-23,05:17PM,bitcoin could fall another elon musk spacex blame,0.167,0.833,0.0,-0.34,Negative
+TSLA,3 Hot Stocks That Could Live Up to Their Lofty Valuations,(Motley Fool),Aug-18-23,05:17PM,hot stock could live lofty valuation,0.0,1.0,0.0,0.0,Neutral
+TSLA,Elon Musk Arrives in Japan for First Visit in Nine Years,(Bloomberg),Aug-17-23,11:35PM,elon musk arrives japan first visit nine year,0.0,1.0,0.0,0.0,Neutral
+TSLA,Bitcoin falls nearly 8% as cryptocurrency slide continues,(Financial Times),Aug-17-23,11:35PM,bitcoin fall nearly cryptocurrency slide continues,0.935,0.065,0.0,-0.9993,Negative
+TSLA,Elon Musk Says One Of The Most Difficult Choices He Ever Had To Make Was When He Had 'Just $30 Million Left',(Benzinga),Aug-17-23,11:35PM,elon musk say one difficult choice ever make million left,0.117,0.883,0.0,-0.4201,Negative
+TSLA,XPengs Earnings Should Be Wild. Theyll Matter for Tesla.,(Barrons.com),Aug-17-23,11:35PM,xpengs earnings wild theyll matter tesla,0.0,0.879,0.121,0.0258,Positive
+TSLA,Tesla Logged Another EV Charging Win in Texas. The Stock Didnt Go Up.,(Barrons.com),Aug-17-23,11:35PM,tesla logged another ev charging win texas stock didnt go,0.0,0.759,0.241,0.5859,Positive
+TSLA,VinFast Stock Falls for Second Day; Chinese EV Shares Rise,(The Wall Street Journal),Aug-17-23,11:35PM,vinfast stock fall second day chinese ev share rise,0.908,0.072,0.02,-0.9992,Negative
+TSLA,Tesla warns Core Lithium of potential lawsuit over failed deal,(Reuters),Aug-17-23,11:35PM,tesla warns core lithium potential lawsuit failed deal,0.485,0.515,0.0,-0.6808,Negative
+TSLA,"Blue Shield of California Ends CVS Caremark Partnership, Google's Verily Life Sciences Intensifies Cost-Cutting, Tesla's Autopilot Under Fire Again: Today's Top Stories",(Benzinga),Aug-17-23,11:35PM,blue shield california end cv caremark partnership google verily life science intensifies costcutting tesla autopilot fire today top story,0.099,0.826,0.074,-0.1531,Negative
+TSLA,Is Rivian Stock A Buy Or A Sell With Tesla Launching Cheaper Model S and Model X?,(Investor's Business Daily),Aug-17-23,11:35PM,rivian stock buy sell tesla launching cheaper model model x,0.0,1.0,0.0,0.0,Neutral
+TSLA,Why earnings beats haven't been good enough for investors,(Yahoo Finance Video),Aug-17-23,11:35PM,earnings beat havent good enough investor,0.156,0.454,0.389,0.6802,Positive
+TSLA,Tesla employees discuss what they call the brutal reality of working for Elon Musk,(TheStreet.com),Aug-17-23,11:35PM,tesla employee discus call brutal reality working elon musk,0.24,0.76,0.0,-0.6249,Negative
+TSLA,Is Tesla Stock A Buy Or A Sell With This Analyst Saying TSLA Is A 'Table Pounder'?,(Investor's Business Daily),Aug-17-23,11:35PM,tesla stock buy sell analyst saying tsla table pounder,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla Cuts Prices in China as Price-War Truce Fails,(The Wall Street Journal),Aug-17-23,11:35PM,tesla cut price china pricewar truce fails,0.417,0.583,0.0,-0.6124,Negative
+TSLA,Tesla Stock Is Up. It Logged Another EV Charging Win in Texas.,(Barrons.com),Aug-17-23,11:35PM,tesla stock logged another ev charging win texas,0.0,0.743,0.257,0.5859,Positive
+TSLA,Tesla Warns Miner of Possible Legal Claim on Failed Supply Talks,(Bloomberg),Aug-17-23,11:35PM,tesla warns miner possible legal claim failed supply talk,0.331,0.563,0.106,-0.4939,Negative
+TSLA,Tesla's Charging Deal Isn't as Good as It Seems,(Motley Fool),Aug-17-23,11:35PM,tesla charging deal isnt good seems,0.231,0.769,0.0,-0.3412,Negative
+TSLA,"2 Artificial Intelligence (AI) Stocks Billionaires Are Aggressively Selling, and 1 AI Leader They Can't Stop Buying",(Motley Fool),Aug-17-23,11:35PM,artificial intelligence ai stock billionaire aggressively selling ai leader cant stop buying,0.119,0.622,0.259,0.3995,Positive
+TSLA,EV Maker VinFast Bags Huge Valuation in SPAC-Mania Redux,(Motley Fool),Aug-16-23,08:00PM,ev maker vinfast bag huge valuation spacmania redux,0.0,0.777,0.223,0.3182,Positive
+TSLA,"EV Startup VinFasts Market Debut Pushes Value Higher Than GM, Ford",(The Wall Street Journal),Aug-16-23,08:00PM,ev startup vinfasts market debut push value higher gm ford,0.0,0.806,0.194,0.34,Positive
+TSLA,Elon Musk says SpaceX using Starlink to aid Maui wildfire recovery,(Fox Business),Aug-16-23,08:00PM,elon musk say spacex using starlink aid maui wildfire recovery,0.0,1.0,0.0,0.0,Neutral
+TSLA,Ford CEO Jim Farley Test Drives an F-150 Lightning and Sees a Problem,(Observer),Aug-16-23,08:00PM,ford ceo jim farley test drive f lightning see problem,0.197,0.803,0.0,-0.4019,Negative
+TSLA,NYC To Boston After 10-Minute Charge? Tesla Supplier Launches New Battery,(Investor's Business Daily),Aug-16-23,08:00PM,nyc boston minute charge tesla supplier launch new battery,0.0,1.0,0.0,0.0,Neutral
+TSLA,Tesla Extends Slide On Latest China EV Price War Offensive; Cathie Wood Keeps Selling TSLA,(Investor's Business Daily),Aug-16-23,08:00PM,tesla extends slide latest china ev price war offensive cathie wood keep selling tsla,0.338,0.588,0.074,-0.7506,Negative
+TSLA,Mark Cuban takes another jab at Elon Musk' s business practices,(TheStreet.com),Aug-16-23,08:00PM,mark cuban take another jab elon musk business practice,0.0,1.0,0.0,0.0,Neutral
+TSLA,"Tesla cuts Model S, Model X prices in China",(Yahoo Finance Video),Aug-16-23,08:00PM,tesla cut model model x price china,0.239,0.761,0.0,-0.296,Negative
+NIO,Graphite Wars: The Trillion Dollar Battery Race Has A Big Problem,(Oilprice.com),Aug-22-23,07:01PM,graphite war trillion dollar battery race big problem,0.441,0.559,0.0,-0.743,Negative
+NIO,Global EV Market Share by Company: Top 15 Companies,(Insider Monkey),Aug-21-23,08:49AM,global ev market share company top company,0.0,0.636,0.364,0.4588,Positive
+NIO,NIO Inc. (NIO) Gains As Market Dips: What You Should Know,(Zacks),Aug-17-23,05:45PM,nio inc nio gain market dip know,0.0,0.806,0.194,0.34,Positive
+NIO,VinFast Stock Falls for Second Day; Chinese EV Shares Rise,(The Wall Street Journal),Aug-17-23,05:45PM,vinfast stock fall second day chinese ev share rise,0.908,0.072,0.02,-0.9992,Negative
+NIO,VinFast Stock Plunges After EV Maker's Blockbuster Nasdaq Debut,(The Wall Street Journal),Aug-16-23,09:52AM,vinfast stock plunge ev maker blockbuster nasdaq debut,0.0,0.672,0.328,0.5994,Positive
+NIO,"NIO Inc. to Report Second Quarter 2023 Financial Results on Tuesday, August 29, 2023",(GlobeNewswire),Aug-16-23,09:52AM,nio inc report second quarter financial result tuesday august,0.0,1.0,0.0,0.0,Neutral
+NIO,Investors Heavily Search NIO Inc. (NIO): Here is What You Need to Know,(Zacks),Aug-15-23,01:43PM,investor heavily search nio inc nio need know,0.0,1.0,0.0,0.0,Neutral
+NIO,The 3 Most Undervalued EV Stocks to Buy Now: August 2023,(InvestorPlace),Aug-15-23,01:43PM,undervalued ev stock buy august,0.0,1.0,0.0,0.0,Neutral
+NIO,"Tesla Stock Falls After China Price Cuts, Local EV Rivals Also Drop",(The Wall Street Journal),Aug-14-23,12:55PM,tesla stock fall china price cut local ev rival also drop,0.921,0.079,0.0,-0.9993,Negative
+NIO,Tesla stock falls after slashing some Model Y prices in China,(Yahoo Finance Video),Aug-14-23,12:55PM,tesla stock fall slashing model price china,0.928,0.072,0.0,-0.9993,Negative
+NIO,"Tesla Stock Falls on China Price Cuts, Local EV Rivals Also Drop",(The Wall Street Journal),Aug-14-23,12:55PM,tesla stock fall china price cut local ev rival also drop,0.921,0.079,0.0,-0.9993,Negative
+NIO,NIO Inc. (NIO) Stock Sinks As Market Gains: What You Should Know,(Zacks),Aug-10-23,05:45PM,nio inc nio stock sink market gain know,0.0,0.821,0.179,0.34,Positive
+NIO,NIO Stock Revival? Why This EV Giant May Still Be Revving Up.,(InvestorPlace),Aug-10-23,05:45PM,nio stock revival ev giant may still revving,0.0,1.0,0.0,0.0,Neutral
+NIO,U.S. judge greenlights Nio investor class action over factory claims,(Reuters),Aug-09-23,11:58AM,u judge greenlights nio investor class action factory claim,0.0,1.0,0.0,0.0,Neutral
+NIO,"Nio: Buy, Sell, or Hold?",(Motley Fool),Aug-08-23,07:30AM,nio buy sell hold,0.0,1.0,0.0,0.0,Neutral
+NIO,"Reaching The Finish Line Of The EV Race Is A Daunting Task, One That Some Won't Be Able To Accomplish",(Benzinga),Aug-07-23,05:08PM,reaching finish line ev race daunting task one wont able accomplish,0.0,0.787,0.213,0.5574,Positive
+NIO,"Chinese Maker of 1,000 Kilometer EV Battery Plans IPO by 2025",(Bloomberg),Aug-06-23,06:00PM,chinese maker kilometer ev battery plan ipo,0.0,1.0,0.0,0.0,Neutral
+NIO,A $15 Billion Electric Vehicle Niche Is Flying Under Wall Streets Radar,(Oilprice.com),Aug-02-23,07:00PM,billion electric vehicle niche flying wall street radar,0.0,1.0,0.0,0.0,Neutral
+NIO,Better Chinese Growth Stock: Nio vs. Bilibili,(Motley Fool),Aug-02-23,07:00PM,better chinese growth stock nio v bilibili,0.0,0.476,0.524,0.6705,Positive
+NIO,"NIO Inc. Announces that Deliveries in July 2023 Reached 20,462 Vehicles",(GlobeNewswire),Aug-01-23,05:30AM,nio inc announces delivery july reached vehicle,0.0,0.877,0.123,0.1027,Positive
+NIO,Nio Hits the Accelerator: Can The Stock Make a Long Distance Trip?,(TheStreet.com),Jul-31-23,02:24PM,nio hit accelerator stock make long distance trip,0.0,1.0,0.0,0.0,Neutral
+NIO,Why Nio Stock Is Accelerating Higher Today,(Motley Fool),Jul-28-23,02:38PM,nio stock accelerating higher today,0.0,1.0,0.0,0.0,Neutral
+NIO,"Why Nio and QuantumScape Shares Soared, but Canoo Dropped This Week",(Motley Fool),Jul-27-23,02:19PM,nio quantumscape share soared canoo dropped week,0.0,0.862,0.138,0.1531,Positive
+NIO,"Hey, NIO Investors! This EV Stock Has Trouble Written All Over It.",(InvestorPlace),Jul-27-23,02:19PM,hey nio investor ev stock trouble written,0.507,0.493,0.0,-0.9359,Negative
+NIO,"Why Shares of Rivian, Lucid, and Nio Popped Today",(Motley Fool),Jul-26-23,02:46PM,share rivian lucid nio popped today,0.0,0.784,0.216,0.296,Positive
+NIO,3 EV Stocks to Buy Before the Breakout,(InvestorPlace),Jul-26-23,02:46PM,ev stock buy breakout,0.0,1.0,0.0,0.0,Neutral
+NIO,Dont Read Too Much Into the Latest NIO Stock News,(InvestorPlace),Jul-26-23,02:46PM,dont read much latest nio stock news,0.0,1.0,0.0,0.0,Neutral
+NIO,3 Under-The-Radar EV Stocks For A Summer Of Disruption,(Oilprice.com),Jul-25-23,07:00PM,undertheradar ev stock summer disruption,0.294,0.706,0.0,-0.3612,Negative
+NIO,Here is What to Know Beyond Why NIO Inc. (NIO) is a Trending Stock,(Zacks),Jul-25-23,07:00PM,know beyond nio inc nio trending stock,0.0,1.0,0.0,0.0,Neutral
+NIO,10 Sustainable Investing Stocks Billionaires Are Loading Up On,(Insider Monkey),Jul-24-23,08:30PM,sustainable investing stock billionaire loading,0.0,1.0,0.0,0.0,Neutral
+NIO,Analyst Report: NIO Inc.,(Morningstar Research),Jul-24-23,08:30PM,analyst report nio inc,0.0,1.0,0.0,0.0,Neutral
+NIO,Why Nio Stock Is Racing Higher Today,(Motley Fool),Jul-24-23,08:30PM,nio stock racing higher today,0.0,1.0,0.0,0.0,Neutral
+NIO,Keep NIO Stock on Your Watch List But Dont Buy Yet,(InvestorPlace),Jul-24-23,08:30PM,keep nio stock watch list dont buy yet,0.0,1.0,0.0,0.0,Neutral
+NIO,3 EV Stocks That Are Screaming Buys Right Now: July 2023,(InvestorPlace),Jul-21-23,10:00PM,ev stock screaming buy right july,0.224,0.776,0.0,-0.3818,Negative
+NIO,"Tesla stock is worth only $85 after gross margin whiff, analyst says: Wall Street reacts",(Yahoo Finance),Jul-20-23,04:55AM,tesla stock worth gross margin whiff analyst say wall street reacts,0.172,0.722,0.106,-0.296,Negative
+NIO,Here's 1 Thing Smart Investors Know About Nio Stock,(Motley Fool),Jul-20-23,04:55AM,here thing smart investor know nio stock,0.0,0.722,0.278,0.4019,Positive
+NIO,"Hey, NIO Stock Investors! Why Now Is the Time to Lock in Some Gains.",(InvestorPlace),Jul-19-23,06:36AM,hey nio stock investor time lock gain,0.0,0.828,0.172,0.4003,Positive
+NIO,GreenPower Motor Company Inc. (GP) Surges 10.4%: Is This an Indication of Further Gains?,(Zacks),Jul-19-23,06:36AM,greenpower motor company inc gp surge indication gain,0.0,0.844,0.156,0.34,Positive
+NIO,NIO Inc. (NIO) Gains But Lags Market: What You Should Know,(Zacks),Jul-17-23,05:45PM,nio inc nio gain lag market know,0.233,0.645,0.122,-0.3716,Negative
+NIO,"NIO Inc.'s (NYSE:NIO) top owners are retail investors with 50% stake, while 33% is held by institutions",(Simply Wall St.),Jul-17-23,05:45PM,nio inc nysenio top owner retail investor stake held institution,0.0,0.899,0.101,0.2023,Positive
+NIO,Ray Dalios China Stocks,(Insider Monkey),Jul-14-23,09:58AM,ray dalios china stock,0.0,1.0,0.0,0.0,Neutral
+NIO,Nio Stock Bulls are in for a Rude Awakening,(InvestorPlace),Jul-14-23,09:58AM,nio stock bull rude awakening,0.3,0.7,0.0,-0.4588,Negative
+NIO,Huge News for Tesla Stock and Nio Stock Investors,(Motley Fool),Jul-14-23,09:58AM,huge news tesla stock nio stock investor,0.0,0.777,0.223,0.3182,Positive
+NIO,Can Nio Stock Break Out After a Flat First Half of 2023?,(Motley Fool),Jul-13-23,10:11AM,nio stock break flat first half,0.0,1.0,0.0,0.0,Neutral
+NIO,NIOs Unlikely Ally: How Tesla Could Turn the Tables for NIO Stock,(InvestorPlace),Jul-13-23,10:11AM,nios unlikely ally tesla could turn table nio stock,0.0,1.0,0.0,0.0,Neutral
+NIO,Is Trending Stock NIO Inc. (NIO) a Buy Now?,(Zacks),Jul-12-23,09:00AM,trending stock nio inc nio buy,0.0,1.0,0.0,0.0,Neutral
+NIO,NIO Inc. Announces Closing of Strategic Equity Investment from CYVN,(GlobeNewswire),Jul-12-23,09:00AM,nio inc announces closing strategic equity investment cyvn,0.0,1.0,0.0,0.0,Neutral
+NIO,EV Penny Stocks List: From $10 to Under $1,(Insider Monkey),Jul-11-23,10:25AM,ev penny stock list,0.0,1.0,0.0,0.0,Neutral
+NIO,"EV Roundup: NKLA Gets $41.9M Fund, BLNK Partners With AAA & More",(Zacks),Jul-11-23,10:25AM,ev roundup nkla get fund blnk partner aaa,0.0,1.0,0.0,0.0,Neutral
+NIO,Why Nio Could Be the Best Way to Play the Long-Term EV Boom,(InvestorPlace),Jul-10-23,10:01AM,nio could best way play longterm ev boom,0.0,0.625,0.375,0.765,Positive
+NIO,7 Stocks to Sell in July Before They Crash and Burn,(InvestorPlace),Jul-10-23,10:01AM,stock sell july crash burn,0.231,0.769,0.0,-0.4019,Negative
+NIO,Great News for Tesla Stock and Nio Stock Investors,(Motley Fool),Jul-09-23,05:00AM,great news tesla stock nio stock investor,0.0,0.661,0.339,0.6249,Positive
+NIO,Huge News for Nio Stock Investors!,(Motley Fool),Jul-07-23,05:28PM,huge news nio stock investor,0.0,0.659,0.341,0.3802,Positive
+NIO,"Up 29% in June, Nio Stock Looks Ready for a Bull Run",(Motley Fool),Jul-07-23,05:28PM,june nio stock look ready bull run,0.0,0.8,0.2,0.3612,Positive
+NIO,EV market: Tesla agrees to fair pricing in China,(Yahoo Finance Video),Jul-06-23,11:30AM,ev market tesla agrees fair pricing china,0.0,0.631,0.369,0.4767,Positive
+NIO,Tesla Joins Chinese Carmakers in Pledge to End EV Price War,(The Wall Street Journal),Jul-06-23,11:30AM,tesla join chinese carmaker pledge end ev price war,0.281,0.719,0.0,-0.5994,Negative
+NIO,3 EV Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023,(InvestorPlace),Jul-05-23,08:52AM,ev stock ai predicts deliver tripledigit return,0.0,1.0,0.0,0.0,Neutral
+NIO,"Nio's Business Bounces Back, but There's a Better Way to Play Chinese EV Stocks",(Motley Fool),Jul-05-23,08:52AM,nios business bounce back there better way play chinese ev stock,0.0,0.613,0.387,0.7876,Positive
+NIO,"NIO, XPeng (XPEV) & LI Auto (LI) Post June, Q2 Delivery Updates",(Zacks),Jul-03-23,11:00AM,nio xpeng xpev li auto li post june q delivery update,0.0,1.0,0.0,0.0,Neutral
+NIO,Tesla Stock Jumps After Price-Cut Strategy Juices Deliveries; EV Makers Rally,(The Wall Street Journal),Jul-03-23,11:00AM,tesla stock jump pricecut strategy juice delivery ev maker rally,0.0,1.0,0.0,0.0,Neutral
+NIO,"Stocks to Watch Monday: Tesla, Apple, Nio, AstraZeneca",(The Wall Street Journal),Jul-03-23,11:00AM,stock watch monday tesla apple nio astrazeneca,0.0,1.0,0.0,0.0,Neutral
+NIO,NIO Inc. Provides June and Second Quarter 2023 Delivery Update,(GlobeNewswire),Jul-01-23,05:30AM,nio inc provides june second quarter delivery update,0.0,1.0,0.0,0.0,Neutral
+NIO,XPeng stock pops after Chinese EV maker prices SUV below Tesla Model Y,(Yahoo Finance),Jun-30-23,11:17AM,xpeng stock pop chinese ev maker price suv tesla model,0.0,1.0,0.0,0.0,Neutral
+NIO,Why Nio Shares Are Jumping This Week,(Motley Fool),Jun-30-23,11:17AM,nio share jumping week,0.0,0.732,0.268,0.296,Positive
+NIO,Ignore NIO Stocks Big News. There Is Disappointment Ahead.,(InvestorPlace),Jun-30-23,11:17AM,ignore nio stock big news disappointment ahead,0.453,0.547,0.0,-0.7003,Negative
+NIO,Dont Fall for It! 7 Overhyped EV Stocks to Avoid,(InvestorPlace),Jun-29-23,06:00AM,dont fall overhyped ev stock avoid,0.238,0.762,0.0,-0.3595,Negative
+NIO,Why Abu Dhabis Bet on NIO Stock Is a Case of Color-Blind Optimism,(InvestorPlace),Jun-28-23,02:07PM,abu dhabis bet nio stock case colorblind optimism,0.0,0.759,0.241,0.5423,Positive
+NIO,Is Most-Watched Stock NIO Inc. (NIO) Worth Betting on Now?,(Zacks),Jun-28-23,02:07PM,mostwatched stock nio inc nio worth betting,0.0,0.826,0.174,0.2263,Positive
+NIO,Why Nio Stock Raced Higher Today,(Motley Fool),Jun-27-23,04:11PM,nio stock raced higher today,0.0,1.0,0.0,0.0,Neutral
+NIO,"EV Roundup: NIO Raises More Than $700M, RIVN to Ride TSLA's NACS Wave & More",(Zacks),Jun-27-23,04:11PM,ev roundup nio raise rivn ride tslas nac wave,0.0,1.0,0.0,0.0,Neutral
+NIO,Is Nio Stock Following in Tesla's Footsteps?,(Motley Fool),Jun-27-23,04:11PM,nio stock following tesla footstep,0.0,1.0,0.0,0.0,Neutral
+NIO,3 Stocks Under $10 That Can Skyrocket by 2025,(InvestorPlace),Jun-27-23,04:11PM,stock skyrocket,0.0,1.0,0.0,0.0,Neutral
+NIO,"Watch Out, NIO Stock Investors! There Is Stormy Weather Ahead",(InvestorPlace),Jun-26-23,07:00AM,watch nio stock investor stormy weather ahead,0.0,1.0,0.0,0.0,Neutral
+NIO,Chinas Tesla Killer Stumbles as EV Price War Takes Toll,(The Wall Street Journal),Jun-26-23,07:00AM,china tesla killer stumble ev price war take toll,0.506,0.494,0.0,-0.8481,Negative
+NIO,This Big Investor Is Making a Massive Mistake With NIO Stock,(InvestorPlace),Jun-24-23,10:24AM,big investor making massive mistake nio stock,0.211,0.789,0.0,-0.34,Negative
+NIO,"The Zacks Analyst Blog Highlights Tesla, Li Auto, NIO and XPeng",(Zacks),Jun-23-23,05:00AM,zacks analyst blog highlight tesla li auto nio xpeng,0.0,1.0,0.0,0.0,Neutral
+NIO,Beyond Tesla: 3 EV Stocks Offering Greater Long-Term Returns,(InvestorPlace),Jun-22-23,03:07PM,beyond tesla ev stock offering greater longterm return,0.0,0.737,0.263,0.3612,Positive
+NIO,NIO's Global Expansion Plan Gets a $738.5M Boost From UAE,(Zacks),Jun-21-23,09:31AM,nios global expansion plan get boost uae,0.0,0.748,0.252,0.4019,Positive
+NIO,Analyst Report: NIO Inc.,(Morningstar Research),Jun-21-23,09:31AM,analyst report nio inc,0.0,1.0,0.0,0.0,Neutral
+NIO,Abu Dhabi to Take 7% Stake in Chinese Electric Vehicle Maker Nio,(Bloomberg),Jun-20-23,11:22AM,abu dhabi take stake chinese electric vehicle maker nio,0.0,1.0,0.0,0.0,Neutral
+NIO,China's Nio to get near $740 million investment from Abu Dhabi-backed firm,(Reuters),Jun-20-23,11:22AM,china nio get near million investment abu dhabibacked firm,0.0,1.0,0.0,0.0,Neutral
+NIO,UPDATE 1-China's Nio to get near $740 mln investment from Abu Dhabi-backed firm,(Reuters),Jun-20-23,11:22AM,update china nio get near mln investment abu dhabibacked firm,0.0,1.0,0.0,0.0,Neutral
+NIO,China's Nio to get over $730 mln investment from Abu Dhabi-backed firm,(Reuters),Jun-20-23,11:22AM,china nio get mln investment abu dhabibacked firm,0.0,1.0,0.0,0.0,Neutral
+NIO,NIO Inc. Announces Strategic Equity Investment from CYVN Holdings,(GlobeNewswire),Jun-20-23,11:22AM,nio inc announces strategic equity investment cyvn holding,0.0,1.0,0.0,0.0,Neutral
+NIO,2 Green Flags for Nio Stock in 2023 (and Beyond),(Motley Fool),Jun-19-23,11:42AM,green flag nio stock beyond,0.0,1.0,0.0,0.0,Neutral
+NIO,"EV Roundup: TSLA's NACS Wave, NKLA's Cost Optimization Drive & More",(Zacks),Jun-19-23,11:42AM,ev roundup tslas nac wave nklas cost optimization drive,0.0,0.776,0.224,0.3818,Positive
+NIO,Why Is Everyone Talking About Nio Stock?,(Motley Fool),Jun-18-23,06:06AM,everyone talking nio stock,0.0,1.0,0.0,0.0,Neutral
+NIO,Better EV Stock: NIO vs. ChargePoint,(Motley Fool),Jun-18-23,06:06AM,better ev stock nio v chargepoint,0.0,0.633,0.367,0.4404,Positive
+NIO,NIO Stock Continues to Gain Momentum. Here's What Investors Should Know,(Motley Fool),Jun-16-23,10:00AM,nio stock continues gain momentum here investor know,0.0,0.746,0.254,0.5267,Positive
+NIO,Why Nikola and Other EV Stocks Soared This Week,(Motley Fool),Jun-15-23,01:07PM,nikola ev stock soared week,0.0,1.0,0.0,0.0,Neutral
+NIO,What's Going on With Nio Stock?,(Motley Fool),Jun-14-23,04:51PM,whats going nio stock,0.0,1.0,0.0,0.0,Neutral
+NIO,EV stocks join AI names in leading the stock market rally,(Yahoo Finance),Jun-14-23,04:51PM,ev stock join ai name leading stock market rally,0.0,0.82,0.18,0.296,Positive
+NIO,Nio Succumbs To Tesla's Price War,(Benzinga),Jun-13-23,02:17PM,nio succumbs tesla price war,0.438,0.562,0.0,-0.5994,Negative
+NIO,"NIO Slashes Prices of All Models, Ends Free Battery Swapping",(Zacks),Jun-13-23,02:17PM,nio slash price model end free battery swapping,0.137,0.611,0.252,0.3612,Positive
+NIO,"EV Roundup: GM-TSLA Charging Deal, BWA's ""Charging Forward: 2027"" & More",(Zacks),Jun-13-23,02:17PM,ev roundup gmtsla charging deal bwas charging forward,0.0,1.0,0.0,0.0,Neutral
+NIO,Best Stocks to Buy Now: Is Nio Stock a Buy After Earnings?,(Motley Fool),Jun-12-23,04:57PM,best stock buy nio stock buy earnings,0.0,0.704,0.296,0.6369,Positive
+NIO,Options Traders Score Cheap Premium After Nio Earnings,(Schaeffer's Investment Research),Jun-12-23,04:57PM,option trader score cheap premium nio earnings,0.0,1.0,0.0,0.0,Neutral
+NIO,"NIO Q1 Loss Wider Than Expected, Vehicle Margin Declines",(Zacks),Jun-12-23,04:57PM,nio q loss wider expected vehicle margin decline,0.223,0.777,0.0,-0.3182,Negative
+NIO,Why Nio Stock Shot Higher Today,(Motley Fool),Jun-12-23,04:57PM,nio stock shot higher today,0.0,1.0,0.0,0.0,Neutral
+NIO,"Chinese EV stocks XPeng, Nio surge after higher than expected pre-orders",(Yahoo Finance Video),Jun-12-23,04:57PM,chinese ev stock xpeng nio surge higher expected preorders,0.0,1.0,0.0,0.0,Neutral
+LI,XPeng Succumbed To Tesla's Price War But Rising Deliveries Provide Hints Of Recovery,(Benzinga),Aug-18-23,12:37PM,xpeng succumbed tesla price war rising delivery provide hint recovery,0.17,0.83,0.0,-0.3506,Negative
+LI,VinFast Stock Falls for Second Day; Chinese EV Shares Rise,(The Wall Street Journal),Aug-17-23,01:33PM,vinfast stock fall second day chinese ev share rise,0.908,0.072,0.02,-0.9992,Negative
+LI,VinFast Stock Plunges After EV Maker's Blockbuster Nasdaq Debut,(The Wall Street Journal),Aug-16-23,01:37PM,vinfast stock plunge ev maker blockbuster nasdaq debut,0.0,0.672,0.328,0.5994,Positive
+LI,The 3 Most Undervalued EV Stocks to Buy Now: August 2023,(InvestorPlace),Aug-15-23,07:00AM,undervalued ev stock buy august,0.0,1.0,0.0,0.0,Neutral
+LI,Best Stocks to Buy Now: Rivian vs. Nio vs. Li vs. XPeng,(Motley Fool),Aug-15-23,07:00AM,best stock buy rivian v nio v li v xpeng,0.0,0.724,0.276,0.6369,Positive
+LI,Li Auto Alert: Buy LI Stock Today or Regret It Down the Road,(InvestorPlace),Aug-14-23,12:39PM,li auto alert buy li stock today regret road,0.175,0.688,0.138,-0.1531,Negative
+LI,7 Great Growth Stocks Smart Investors Should Be Grabbing Up Now,(InvestorPlace),Aug-14-23,12:39PM,great growth stock smart investor grabbing,0.0,0.427,0.573,0.8555,Positive
+LI,LI Stock Analysis: What the Market Is Telling Us About Li Auto,(InvestorPlace),Aug-13-23,06:30AM,li stock analysis market telling u li auto,0.0,1.0,0.0,0.0,Neutral
+LI,Li Auto Inc. (NASDAQ:LI) Q2 2023 Earnings Call Transcript,(Insider Monkey),Aug-12-23,08:00AM,li auto inc nasdaqli q earnings call transcript,0.0,1.0,0.0,0.0,Neutral
+LI,Today's News From The EV Land,(Benzinga),Aug-10-23,11:55AM,today news ev land,0.0,1.0,0.0,0.0,Neutral
+LI,"Buy Li Auto Stock, Sell XPeng. China EV Earnings Matter.",(Barrons.com),Aug-10-23,11:55AM,buy li auto stock sell xpeng china ev earnings matter,0.0,0.891,0.109,0.0258,Positive
+LI,Analyst Report: Li Auto Inc.,(Morningstar Research),Aug-09-23,06:47AM,analyst report li auto inc,0.0,1.0,0.0,0.0,Neutral
+LI,Need To Know: Analysts Are Much More Bullish On Li Auto Inc. (NASDAQ:LI),(Simply Wall St.),Aug-09-23,06:47AM,need know analyst much bullish li auto inc nasdaqli,0.0,1.0,0.0,0.0,Neutral
+LI,"China's Li Auto aims to outsell BMW, Mercedes, Audi in its home market in 2024",(Reuters),Aug-08-23,11:30PM,china li auto aim outsell bmw mercedes audi home market,0.0,1.0,0.0,0.0,Neutral
+LI,"China's Li Auto aims to outsell BMW, Mercedes, Audi in its home market in 2024",(Reuters),Aug-08-23,11:30PM,china li auto aim outsell bmw mercedes audi home market,0.0,1.0,0.0,0.0,Neutral
+LI,"Li Auto Earnings Boom. Tesla Rival Sinks Despite Strong Outlook, Mega Update.",(Investor's Business Daily),Aug-08-23,11:30PM,li auto earnings boom tesla rival sink despite strong outlook mega update,0.197,0.803,0.0,-0.4023,Negative
+LI,Why Did Li Auto Stock Crash Today?,(Motley Fool),Aug-08-23,11:30PM,li auto stock crash today,0.31,0.69,0.0,-0.4019,Negative
+LI,Li Auto (LI) Q2 2023 Earnings Call Transcript,(Motley Fool),Aug-08-23,11:30PM,li auto li q earnings call transcript,0.0,1.0,0.0,0.0,Neutral
+LI,Li Is More Profitable Than Tesla. Its Stock Is Tanking.,(Barrons.com),Aug-08-23,11:30PM,li profitable tesla stock tanking,0.0,0.738,0.262,0.4927,Positive
+LI,"Li Auto Earnings Boom, Delivery Guidance Strong, But Tesla Rival Backs Off Record High",(Investor's Business Daily),Aug-08-23,11:30PM,li auto earnings boom delivery guidance strong tesla rival back record high,0.084,0.777,0.139,0.2144,Positive
+LI,Tesla Is Now Less Profitable Than This Chinese EV Maker,(Barrons.com),Aug-08-23,11:30PM,tesla le profitable chinese ev maker,0.0,0.775,0.225,0.3832,Positive
+LI,"Li Auto Swings to Profit, Sees Deliveries Rising. The Stock Is Dropping.",(Barrons.com),Aug-08-23,11:30PM,li auto swing profit see delivery rising stock dropping,0.0,0.791,0.209,0.4404,Positive
+LI,Li Auto Inc. Announces Unaudited Second Quarter 2023 Financial Results,(GlobeNewswire),Aug-08-23,11:30PM,li auto inc announces unaudited second quarter financial result,0.0,1.0,0.0,0.0,Neutral
+LI,Li Auto Earnings Are Coming. Watch for Delivery Guidance.,(Barrons.com),Aug-07-23,04:54PM,li auto earnings coming watch delivery guidance,0.0,1.0,0.0,0.0,Neutral
+LI,"Li Auto Stock On Cusp Of Record High, Tesla Rival Eyes First $3 Billion Quarter",(Investor's Business Daily),Aug-07-23,04:54PM,li auto stock cusp record high tesla rival eye first billion quarter,0.0,1.0,0.0,0.0,Neutral
+LI,"EVgo Charging Network Sees Revenue Soar, Uplifted By Project Tied To Warren Buffett",(Investor's Business Daily),Aug-04-23,04:07PM,evgo charging network see revenue soar uplifted project tied warren buffett,0.0,1.0,0.0,0.0,Neutral
+LI,"EV Charging Network EVgo Sees Revenue Soar, Uplifted By Project Tied To Warren Buffett",(Investor's Business Daily),Aug-03-23,03:45PM,ev charging network evgo see revenue soar uplifted project tied warren buffett,0.0,1.0,0.0,0.0,Neutral
+LI,EV Charging Stock Soars On Earnings. IBD 50 Leader Hits Fresh High.,(Investor's Business Daily),Aug-03-23,03:45PM,ev charging stock soar earnings ibd leader hit fresh high,0.0,0.827,0.173,0.3182,Positive
+LI,A $15 Billion Electric Vehicle Niche Is Flying Under Wall Streets Radar,(Oilprice.com),Aug-02-23,07:00PM,billion electric vehicle niche flying wall street radar,0.0,1.0,0.0,0.0,Neutral
+LI,"Li Auto Pops To High On Robust Sales, But Nio May Have Edge Ahead",(Investor's Business Daily),Aug-01-23,04:07PM,li auto pop high robust sale nio may edge ahead,0.0,0.884,0.116,0.1779,Positive
+LI,Tesla's China Rivals Post Robust Deliveries. This EV Stock Hits New High.,(Investor's Business Daily),Aug-01-23,04:07PM,tesla china rival post robust delivery ev stock hit new high,0.0,0.821,0.179,0.34,Positive
+LI,"NIO, Li, and XPeng Post Huge Deliveries Numbers. Thats Good for Tesla Stock.",(Barrons.com),Aug-01-23,04:07PM,nio li xpeng post huge delivery number thats good tesla stock,0.0,0.679,0.321,0.6369,Positive
+LI,Tesla's China Rivals Amp Up EV Deliveries. Two Stocks Double This Year.,(Investor's Business Daily),Aug-01-23,04:07PM,tesla china rival amp ev delivery two stock double year,0.0,1.0,0.0,0.0,Neutral
+LI,"LI Stock Investors, Take Note: What to Watch for on August 8",(InvestorPlace),Aug-01-23,04:07PM,li stock investor take note watch august,0.0,1.0,0.0,0.0,Neutral
+LI,"Huge Delivery Numbers From, NIO, Li, and XPeng Are Good for Tesla Stock",(Barrons.com),Aug-01-23,04:07PM,huge delivery number nio li xpeng good tesla stock,0.0,0.679,0.321,0.6369,Positive
+LI,Li Auto Inc. July 2023 Delivery Update,(GlobeNewswire),Aug-01-23,04:07PM,li auto inc july delivery update,0.0,1.0,0.0,0.0,Neutral
+LI,These 3 EV Stocks Could Outperform All Others in 2024,(InvestorPlace),Jul-31-23,03:06PM,ev stock could outperform others,0.0,1.0,0.0,0.0,Neutral
+LI,"Tesla's China Rivals Nio, Li Auto, XPeng Amp Up Their EV Game. Two Stocks Double This Year.",(Investor's Business Daily),Jul-31-23,03:06PM,tesla china rival nio li auto xpeng amp ev game two stock double year,0.0,1.0,0.0,0.0,Neutral
+LI,"Li Auto (NASDAQ:LI) delivers shareholders solid 38% CAGR over 3 years, surging 12% in the last week alone",(Simply Wall St.),Jul-31-23,03:06PM,li auto nasdaqli delivers shareholder solid cagr year surging last week alone,0.108,0.806,0.086,-0.1027,Negative
+LI,Analyst Report: Li Auto Inc.,(Morningstar Research),Jul-28-23,06:48PM,analyst report li auto inc,0.0,1.0,0.0,0.0,Neutral
+LI,10 Best Small Cap Electric Vehicle Stocks to Buy,(Insider Monkey),Jul-28-23,06:48PM,best small cap electric vehicle stock buy,0.0,0.656,0.344,0.6369,Positive
+LI,7 EV Stocks You Better Be Buying on Each and Every Dip,(InvestorPlace),Jul-27-23,06:18PM,ev stock better buying every dip,0.0,0.775,0.225,0.4404,Positive
+LI,"Li Auto Inc. to Report Second Quarter 2023 Financial Results on August 8, 2023",(GlobeNewswire),Jul-27-23,06:18PM,li auto inc report second quarter financial result august,0.0,1.0,0.0,0.0,Neutral
+LI,2 EV Stocks Gaining Momentum This Year,(GuruFocus.com),Jul-26-23,01:16PM,ev stock gaining momentum year,0.0,0.641,0.359,0.4215,Positive
+LI,3 EV Stocks to Power Up Your Portfolio for the Next 5 Years,(InvestorPlace),Jul-25-23,03:53PM,ev stock power portfolio next year,0.0,1.0,0.0,0.0,Neutral
+LI,Warning: Toyota Poses a Big Threat to Li Auto Stock,(InvestorPlace),Jul-25-23,03:53PM,warning toyota pose big threat li auto stock,0.453,0.547,0.0,-0.7003,Negative
+LI,3 Overvalued Stocks to Sell Before They Crater,(InvestorPlace),Jul-24-23,04:45PM,overvalued stock sell crater,0.0,1.0,0.0,0.0,Neutral
+LI,Is CarGurus (CARG) Outperforming Other Auto-Tires-Trucks Stocks This Year?,(Zacks),Jul-24-23,04:45PM,cargurus carg outperforming autotirestrucks stock year,0.0,1.0,0.0,0.0,Neutral
+LI,The Great LI Auto Gamble: Is It Time to Double Down or Cash Out?,(InvestorPlace),Jul-21-23,06:20AM,great li auto gamble time double cash,0.0,0.76,0.24,0.6249,Positive
+LI,Li Auto Inc. Sponsored ADR (LI) Gains As Market Dips: What You Should Know,(Zacks),Jul-20-23,05:45PM,li auto inc sponsored adr li gain market dip know,0.0,0.844,0.156,0.34,Positive
+LI,"BYD, Li Auto Smash Foreign Rivals During Price War",(Bloomberg),Jul-20-23,05:45PM,byd li auto smash foreign rival price war,0.328,0.672,0.0,-0.5994,Negative
+LI,11 Cheap Chinese Stocks to Buy According to Analysts,(Insider Monkey),Jul-20-23,05:45PM,cheap chinese stock buy according analyst,0.0,1.0,0.0,0.0,Neutral
+LI,"3 EV Stocks to Buy to Turn $1,000 Into $1 Million",(InvestorPlace),Jul-19-23,01:34PM,ev stock buy turn million,0.0,1.0,0.0,0.0,Neutral
+LI,The 3 Most Undervalued EV Stocks to Buy Now: July 2023,(InvestorPlace),Jul-19-23,01:34PM,undervalued ev stock buy july,0.0,1.0,0.0,0.0,Neutral
+LI,Forget Tesla: These 3 EV Stocks Could Be Better Bets Right Now,(InvestorPlace),Jul-18-23,04:09PM,forget tesla ev stock could better bet right,0.138,0.652,0.21,0.25,Positive
+LI,LI Stock Outlook: Can Chinas Middle Class Afford This New Minivan?,(InvestorPlace),Jul-18-23,04:09PM,li stock outlook china middle class afford new minivan,0.0,1.0,0.0,0.0,Neutral
+LI,Best EV Stocks: Nio vs. XPeng vs. Li Auto,(Motley Fool),Jul-17-23,07:03PM,best ev stock nio v xpeng v li auto,0.0,0.656,0.344,0.6369,Positive
+LI,Li Auto Inc. Sponsored ADR (LI) Dips More Than Broader Markets: What You Should Know,(Zacks),Jul-14-23,05:45PM,li auto inc sponsored adr li dip broader market know,0.0,1.0,0.0,0.0,Neutral
+LI,Ray Dalios China Stocks,(Insider Monkey),Jul-14-23,05:45PM,ray dalios china stock,0.0,1.0,0.0,0.0,Neutral
+LI,Chinese Tesla rival Nio hits out against US protectionism,(Financial Times),Jul-13-23,05:10AM,chinese tesla rival nio hit u protectionism,0.0,1.0,0.0,0.0,Neutral
+LI,Nio Stock Eyes Return To Glory. Its EV Sales Are Set To Accelerate.,(Investor's Business Daily),Jul-12-23,04:15PM,nio stock eye return glory ev sale set accelerate,0.0,0.774,0.226,0.5423,Positive
+LI,"3 EV Stocks Worth Buying Now: BYD, TSLA, LI",(InvestorPlace),Jul-12-23,04:15PM,ev stock worth buying byd tsla li,0.0,0.787,0.213,0.2263,Positive
+LI,Li Auto Outlook: Is It Time to Pump the Brakes on LI Stock?,(InvestorPlace),Jul-12-23,04:15PM,li auto outlook time pump brake li stock,0.0,1.0,0.0,0.0,Neutral
+LI,Why These 3 Stocks Are the Best Ways to Play EV Right Now,(InvestorPlace),Jul-12-23,04:15PM,stock best way play ev right,0.0,0.602,0.398,0.765,Positive
+LI,Wall Street Analysts See Li Auto Inc. Sponsored ADR (LI) as a Buy: Should You Invest?,(Zacks),Jul-11-23,09:30AM,wall street analyst see li auto inc sponsored adr li buy invest,0.0,1.0,0.0,0.0,Neutral
+LI,LI Stock Prediction: Li Auto Will Be a Vehicle for Profits in H2 2023,(InvestorPlace),Jul-11-23,09:30AM,li stock prediction li auto vehicle profit h,0.0,0.805,0.195,0.4404,Positive
+LI,Tesla Rivals Lead 9 Stocks With Strong Earnings Growth Seen Through Next Year,(Investor's Business Daily),Jul-10-23,06:30PM,tesla rival lead stock strong earnings growth seen next year,0.0,0.629,0.371,0.7096,Positive
+LI,BMW (BMWYY) Launches Low-Cost Electric CE 02 Motorcycle,(Zacks),Jul-10-23,06:30PM,bmw bmwyy launch lowcost electric ce motorcycle,0.0,1.0,0.0,0.0,Neutral
+LI,Tesla (TSLA) Offers Cash Discount on Model 3/Y to Boost Sales,(Zacks),Jul-10-23,06:30PM,tesla tsla offer cash discount model boost sale,0.0,0.787,0.213,0.4019,Positive
+LI,3 Tech Stocks With More Potential Than Any Cryptocurrency,(Motley Fool),Jul-09-23,05:20AM,tech stock potential cryptocurrency,0.0,1.0,0.0,0.0,Neutral
+LI,Li Auto Inc. Sponsored ADR (LI) Stock Moves -0.76%: What You Should Know,(Zacks),Jul-06-23,06:15PM,li auto inc sponsored adr li stock move know,0.0,1.0,0.0,0.0,Neutral
+LI,The 7 Best EV Stocks to Buy in July,(InvestorPlace),Jul-06-23,06:15PM,best ev stock buy july,0.0,0.625,0.375,0.6369,Positive
+LI,General Motors (GM) Second Quarter Sales Increase 19% Y/Y,(Zacks),Jul-06-23,06:15PM,general motor gm second quarter sale increase yy,0.0,0.777,0.223,0.3182,Positive
+LI,Outpacing Tesla? Why Li Auto Stock Should Be on Your Radar.,(InvestorPlace),Jul-06-23,06:15PM,outpacing tesla li auto stock radar,0.0,1.0,0.0,0.0,Neutral
+LI,"Goodbye, Volkswagen: Chinas New EV Winners",(The Wall Street Journal),Jul-06-23,06:15PM,goodbye volkswagen china new ev winner,0.0,0.617,0.383,0.4767,Positive
+LI,"Rivian (RIVN) Delivers 12,640 Vehicles in Q2, Up 59% Q/Q",(Zacks),Jul-05-23,11:23AM,rivian rivn delivers vehicle q qq,0.0,1.0,0.0,0.0,Neutral
+LI,These 3 Stocks Could be the Best Growth Picks Right Now,(InvestorPlace),Jul-03-23,04:55PM,stock could best growth pick right,0.0,0.541,0.459,0.7783,Positive
+LI,"China EV Sales Improve For Nio And Xpeng, While BYD And Li Auto Boom And Hit Milestones",(Investor's Business Daily),Jul-03-23,04:55PM,china ev sale improve nio xpeng byd li auto boom hit milestone,0.0,0.847,0.153,0.4404,Positive
+LI,The No. 1 Stocks From 2023's Hottest Industry Groups Don't Include Tesla Or Nvidia,(Investor's Business Daily),Jul-03-23,04:55PM,stock hottest industry group dont include tesla nvidia,0.155,0.845,0.0,-0.296,Negative
+LI,"NIO, XPeng (XPEV) & LI Auto (LI) Post June, Q2 Delivery Updates",(Zacks),Jul-03-23,04:55PM,nio xpeng xpev li auto li post june q delivery update,0.0,1.0,0.0,0.0,Neutral
+LI,"Li Auto, XPeng, and NIO Post EV Delivery Record in June. One Had an Incredible Month.",(Barrons.com),Jul-03-23,04:55PM,li auto xpeng nio post ev delivery record june one incredible month,0.0,1.0,0.0,0.0,Neutral
+LI,"BYD Beat Tesla in China Again. This Is a Two-Horse Race, Though.",(Barrons.com),Jul-03-23,04:55PM,byd beat tesla china twohorse race though,0.0,1.0,0.0,0.0,Neutral
+LI,Tesla Leads EV Stocks Higher as Deliveries Surge Across the Industry,(Motley Fool),Jul-03-23,04:55PM,tesla lead ev stock higher delivery surge across industry,0.0,1.0,0.0,0.0,Neutral
+LI,"China EV Sales: Li Auto Has Milestone Quarter As BYD, Nio, Xpeng Deliveries Pick Up In June",(Investor's Business Daily),Jul-03-23,04:55PM,china ev sale li auto milestone quarter byd nio xpeng delivery pick june,0.0,1.0,0.0,0.0,Neutral
+LI,Chinese EV stocks rally after June deliveries surge,(Investing.com),Jul-02-23,10:04PM,chinese ev stock rally june delivery surge,0.0,1.0,0.0,0.0,Neutral
+LI,"China EV Sales: Li Auto's Milestone Quarter As Nio, Xpeng Deliveries Pick Up In June",(Investor's Business Daily),Jul-01-23,08:29AM,china ev sale li auto milestone quarter nio xpeng delivery pick june,0.0,1.0,0.0,0.0,Neutral
+LI,Li Auto Inc. June 2023 Delivery Update,(GlobeNewswire),Jun-30-23,10:40PM,li auto inc june delivery update,0.0,1.0,0.0,0.0,Neutral
+LI,XPeng stock pops after Chinese EV maker prices SUV below Tesla Model Y,(Yahoo Finance),Jun-30-23,10:40PM,xpeng stock pop chinese ev maker price suv tesla model,0.0,1.0,0.0,0.0,Neutral
+LI,"China EV Sales: Li Auto Eyes Big Quarter; Nio Cut Prices; XPeng G6, Cheaper Than Tesla Model Y, Launches",(Investor's Business Daily),Jun-29-23,04:54PM,china ev sale li auto eye big quarter nio cut price xpeng g cheaper tesla model launch,0.104,0.896,0.0,-0.2732,Negative
+LI,Blink (BLNK) to Add NACS Connectors Into Entire Product Line,(Zacks),Jun-29-23,04:54PM,blink blnk add nac connector entire product line,0.0,1.0,0.0,0.0,Neutral
+LI,Li Auto Inc. Sponsored ADR (LI) Gains As Market Dips: What You Should Know,(Zacks),Jun-28-23,06:15PM,li auto inc sponsored adr li gain market dip know,0.0,0.844,0.156,0.34,Positive
+LI,Tesla (TSLA) NACS Connector to Become a Charging Standard,(Zacks),Jun-28-23,06:15PM,tesla tsla nac connector become charging standard,0.0,1.0,0.0,0.0,Neutral
+LI,Workhorse (WKHS) Commences Production of W750 Electric Van,(Zacks),Jun-28-23,06:15PM,workhorse wkhs commences production w electric van,0.0,1.0,0.0,0.0,Neutral
+LI,Ford (F) to Reduce Headcount in the United States and Canada,(Zacks),Jun-27-23,11:04AM,ford f reduce headcount united state canada,0.0,0.781,0.219,0.4215,Positive
+LI,Honda (HMC) Recalls 1.2M Vehicles to Address Rear Camera Issue,(Zacks),Jun-26-23,11:07AM,honda hmc recall vehicle address rear camera issue,0.0,1.0,0.0,0.0,Neutral
+LI,Stellantis (STLA) & Archer Partnership Moves to Execution Phase,(Zacks),Jun-26-23,11:07AM,stellantis stla archer partnership move execution phase,0.0,1.0,0.0,0.0,Neutral
+LI,"The Zacks Analyst Blog Highlights Tesla, Li Auto, NIO and XPeng",(Zacks),Jun-23-23,05:00AM,zacks analyst blog highlight tesla li auto nio xpeng,0.0,1.0,0.0,0.0,Neutral
+LI,3 Stocks to Watch as China Extends EV Tax Exemption,(Zacks),Jun-22-23,10:07AM,stock watch china extends ev tax exemption,0.0,0.842,0.158,0.128,Positive
+LI,The Best EV Stock to Buy Right Now? Li Auto. Heres Why.,(InvestorPlace),Jun-22-23,10:07AM,best ev stock buy right li auto here,0.0,0.724,0.276,0.6369,Positive
+LI,The Silent Dragon: Why Li Auto Is Chinas Hidden EV Gem,(InvestorPlace),Jun-22-23,10:07AM,silent dragon li auto china hidden ev gem,0.0,1.0,0.0,0.0,Neutral
+RIVN,VinFast Stock Soars 109%. Its a Head-Scratcher.,(Barrons.com),Aug-22-23,05:21PM,vinfast stock soar headscratcher,0.0,1.0,0.0,0.0,Neutral
+RIVN,EV Stock VinFast Is Soaring Again. It Makes No Sense.,(Barrons.com),Aug-22-23,05:21PM,ev stock vinfast soaring make sense,0.196,0.804,0.0,-0.296,Negative
+RIVN,Rivian's Little-Known Competitive Advantage,(Motley Fool),Aug-22-23,05:21PM,rivians littleknown competitive advantage,0.0,0.351,0.649,0.4019,Positive
+RIVN,Electric Pickups Are Upleveling The Power Of EVs,(Benzinga),Aug-21-23,11:52AM,electric pickup upleveling power ev,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian Is Making Huge Strides Toward Profitability,(Motley Fool),Aug-21-23,11:52AM,rivian making huge stride toward profitability,0.0,0.532,0.468,0.5267,Positive
+RIVN,What Makes Rivian Automotive (RIVN) a Prospective Investment?,(Insider Monkey),Aug-21-23,11:52AM,make rivian automotive rivn prospective investment,0.0,1.0,0.0,0.0,Neutral
+RIVN,Is Rivian Stock a Buy?,(Motley Fool),Aug-20-23,06:27AM,rivian stock buy,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian Is Walking a Tightrope,(Motley Fool),Aug-19-23,07:15AM,rivian walking tightrope,0.0,1.0,0.0,0.0,Neutral
+RIVN,1 Green Flag for Rivian Stock Investors,(Motley Fool),Aug-19-23,07:15AM,green flag rivian stock investor,0.0,1.0,0.0,0.0,Neutral
+RIVN,EVgo (EVGO) Adds Rivian's R1T and R1S Models to Autocharge+,(Zacks),Aug-17-23,12:31PM,evgo evgo add rivians rt r model autocharge,0.0,1.0,0.0,0.0,Neutral
+RIVN,Is Rivian Stock A Buy Or A Sell With Tesla Launching Cheaper Model S and Model X?,(Investor's Business Daily),Aug-17-23,12:31PM,rivian stock buy sell tesla launching cheaper model model x,0.0,1.0,0.0,0.0,Neutral
+RIVN,Great News for Rivian Stock Investors,(Motley Fool),Aug-17-23,12:31PM,great news rivian stock investor,0.0,0.549,0.451,0.6249,Positive
+RIVN,A New EV Company Has Gone Public. Its Stock Is Worth More Than Fords.,(Barrons.com),Aug-15-23,04:16PM,new ev company gone public stock worth ford,0.0,0.863,0.137,0.2263,Positive
+RIVN,Wall Street Analysts See Rivian Automotive (RIVN) as a Buy: Should You Invest?,(Zacks),Aug-15-23,04:16PM,wall street analyst see rivian automotive rivn buy invest,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Why Canoo, Lucid, and Rivian Stocks All Just Dropped",(Motley Fool),Aug-15-23,04:16PM,canoo lucid rivian stock dropped,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian Just Had a Great Quarter. It's Still Not a Buy.,(Motley Fool),Aug-15-23,04:16PM,rivian great quarter still buy,0.0,0.661,0.339,0.6249,Positive
+RIVN,A New EV Company Starts Trading Today. Its Stock Is Worth More Than Rivian.,(Barrons.com),Aug-15-23,04:16PM,new ev company start trading today stock worth rivian,0.0,0.863,0.137,0.2263,Positive
+RIVN,What Rivian's Latest Improvements Really Mean For the Stock,(Motley Fool),Aug-15-23,04:16PM,rivians latest improvement really mean stock,0.0,0.777,0.223,0.3182,Positive
+RIVN,"EVgo Adds Rivian to Autocharge+, Welcoming the R1S and R1T to the Growing List of Eligible Models",(Business Wire),Aug-15-23,04:16PM,evgo add rivian autocharge welcoming r rt growing list eligible model,0.0,0.765,0.235,0.5574,Positive
+RIVN,Best Stocks to Buy Now: Rivian vs. Nio vs. Li vs. XPeng,(Motley Fool),Aug-15-23,04:16PM,best stock buy rivian v nio v li v xpeng,0.0,0.724,0.276,0.6369,Positive
+RIVN,Tesla stock falls after slashing some Model Y prices in China,(Yahoo Finance Video),Aug-14-23,09:55AM,tesla stock fall slashing model price china,0.928,0.072,0.0,-0.9993,Negative
+RIVN,3 Key Things From Rivian's Earnings Call Investors Should Know,(Motley Fool),Aug-14-23,09:55AM,key thing rivians earnings call investor know,0.0,1.0,0.0,0.0,Neutral
+RIVN,Why Rivian Is a No-Brainer Growth Stock,(Motley Fool),Aug-13-23,08:45AM,rivian nobrainer growth stock,0.0,0.658,0.342,0.3818,Positive
+RIVN,Can You Still Buy the Nasdaq's Best-Performing July Stocks?,(Motley Fool),Aug-13-23,08:45AM,still buy nasdaq bestperforming july stock,0.0,1.0,0.0,0.0,Neutral
+RIVN,3 Top Electric Vehicle (EV) News Stories of the Week,(Motley Fool),Aug-12-23,11:25AM,top electric vehicle ev news story week,0.0,0.816,0.184,0.2023,Positive
+RIVN,Should You Buy Rivian Stock on the Dip?,(Motley Fool),Aug-12-23,11:25AM,buy rivian stock dip,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Buy Rivian Stock, Sell Lucid, Says Broker. Both Stocks Are Down.",(Barrons.com),Aug-11-23,12:57PM,buy rivian stock sell lucid say broker stock,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rivian's (RIVN) Q2 Loss Narrower-Than-Expected, Sales Rise Y/Y",(Zacks),Aug-11-23,12:57PM,rivians rivn q loss narrowerthanexpected sale rise yy,0.247,0.753,0.0,-0.3182,Negative
+RIVN,Rivian Seems To Have Resolved Its Biggest Money-Draining Issues,(Benzinga),Aug-11-23,12:57PM,rivian seems resolved biggest moneydraining issue,0.0,0.825,0.175,0.1779,Positive
+RIVN,Why Rivian Stock Is Tumbling This Week,(Motley Fool),Aug-11-23,12:57PM,rivian stock tumbling week,0.0,1.0,0.0,0.0,Neutral
+RIVN,Tech companies keep cutting their capex  and Wall Street loves it,(Yahoo Finance),Aug-11-23,12:57PM,tech company keep cutting capex wall street love,0.106,0.634,0.261,0.4939,Positive
+RIVN,"Twilio upgraded, Sealed Air downgraded: Wall Street's top analyst calls",(The Fly),Aug-11-23,12:57PM,twilio upgraded sealed air downgraded wall street top analyst call,0.0,0.833,0.167,0.2023,Positive
+RIVN,"Midday movers: Six Flags Entertainment, Cano Health, UBS and more",(Investing.com),Aug-11-23,12:57PM,midday mover six flag entertainment cano health ubs,0.0,0.763,0.237,0.4215,Positive
+RIVN,"4 big analyst picks: Rivian raised to Outperform, price target lifted to $30",(Investing.com),Aug-11-23,12:57PM,big analyst pick rivian raised outperform price target lifted,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian CEO Opens Up About EV Charging Deal With Tesla,(Observer),Aug-10-23,02:41PM,rivian ceo open ev charging deal tesla,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rebel's Edge - August 10: $DIS, $RIVN, $WYNN, and Trevor Lawrence",(TheStreet.com),Aug-10-23,02:41PM,rebel edge august dis rivn wynn trevor lawrence,0.0,1.0,0.0,0.0,Neutral
+RIVN,Is Rivian Automotive Stock a Buy Now?,(Motley Fool),Aug-10-23,02:41PM,rivian automotive stock buy,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rivian Stock: EV Automaker Lifts Production Forecast, Beats Earnings Estimates",(Investor's Business Daily),Aug-09-23,04:51PM,rivian stock ev automaker lift production forecast beat earnings estimate,0.0,0.6,0.4,0.7906,Positive
+RIVN,Rivian on track to exceed its 2023 production forecast for electric trucks,(American City Business Journals),Aug-09-23,04:51PM,rivian track exceed production forecast electric truck,0.0,1.0,0.0,0.0,Neutral
+RIVN,"These Stocks Moved the Most Today: Roblox, Upstart, DraftKings, Nvidia, and More",(Barrons.com),Aug-09-23,04:51PM,stock moved today roblox upstart draftkings nvidia,0.0,1.0,0.0,0.0,Neutral
+RIVN,Why Electric Vehicle Stocks Like Lucid and Canoo Were Sinking Today,(Motley Fool),Aug-09-23,04:51PM,electric vehicle stock like lucid canoo sinking today,0.0,0.8,0.2,0.3612,Positive
+RIVN,"Roblox, Nvidia, Rivian: Top Stocks",(Yahoo Finance Video),Aug-09-23,04:51PM,roblox nvidia rivian top stock,0.0,0.69,0.31,0.2023,Positive
+RIVN,"Cadillac's Escalade IQ EV debuts with 450-mile range, $130K price tag",(Yahoo Finance),Aug-09-23,04:51PM,cadillacs escalade iq ev debut mile range k price tag,0.0,1.0,0.0,0.0,Neutral
+RIVN,Why Rivian Plunged Today,(Motley Fool),Aug-09-23,04:51PM,rivian plunged today,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian Reduces Per-Unit Losses on the Road to Profitability,(Investopedia),Aug-09-23,04:51PM,rivian reduces perunit loss road profitability,0.229,0.593,0.178,-0.1531,Negative
+RIVN,Q2 2023 Rivian Automotive Inc Earnings Call,(Thomson Reuters StreetEvents),Aug-09-23,04:51PM,q rivian automotive inc earnings call,0.0,1.0,0.0,0.0,Neutral
+RIVN,"These Stocks Are Moving the Most Today: Roblox, Upstart, Array, Doximity, DraftKings, Nvidia, and More",(Barrons.com),Aug-09-23,04:51PM,stock moving today roblox upstart array doximity draftkings nvidia,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian Earnings Impressed Wall Street. The Stock Is Falling Anyway.,(Barrons.com),Aug-09-23,04:51PM,rivian earnings impressed wall street stock falling anyway,0.126,0.63,0.244,0.3612,Positive
+RIVN,"Rivian Challenges Tesla, But an Investment Is High Reward vs High Risk",(TheStreet.com),Aug-09-23,04:51PM,rivian challenge tesla investment high reward v high risk,0.148,0.504,0.347,0.5499,Positive
+RIVN,"Wendy's Q2 earnings, Rivian production, Upstart stock falls: Trending Tickers",(Yahoo Finance Video),Aug-09-23,04:51PM,wendys q earnings rivian production upstart stock fall trending ticker,0.918,0.082,0.0,-0.9993,Negative
+RIVN,Rivian Earnings and Revenue Beat Estimates; 2023 Production Guidance Raised,(Motley Fool),Aug-09-23,04:51PM,rivian earnings revenue beat estimate production guidance raised,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Sentiment Check: Everyday Investors Shun Cyclicals, Buy Tech",(The Wall Street Journal),Aug-09-23,04:51PM,sentiment check everyday investor shun cyclicals buy tech,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian Earnings Impressed. Wall Street Is Lifting Stock Price Targets.,(Barrons.com),Aug-09-23,04:51PM,rivian earnings impressed wall street lifting stock price target,0.0,0.744,0.256,0.4767,Positive
+RIVN,5 Things to Know Before Markets Open,(Investopedia),Aug-09-23,04:51PM,thing know market open,0.0,1.0,0.0,0.0,Neutral
+RIVN,Disney Gets Into Gambling With ESPN. Why Investors Could Hit the Jackpot.,(Barrons.com),Aug-09-23,04:51PM,disney get gambling espn investor could hit jackpot,0.0,1.0,0.0,0.0,Neutral
+RIVN,"CORRECTED-US STOCKS-Futures rise after selloff, all eyes on CPI data",(Reuters),Aug-09-23,04:51PM,correctedus stocksfutures rise selloff eye cpi data,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian lifts annual production guidance after Q2 results top estimates; analysts positive,(Investing.com),Aug-09-23,04:51PM,rivian lift annual production guidance q result top estimate analyst positive,0.0,0.649,0.351,0.6597,Positive
+RIVN,Dow futures rise; Disney earnings in the spotlight,(Investing.com),Aug-09-23,04:51PM,dow future rise disney earnings spotlight,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rivian Automotive (RIVN) Reports Q2 Loss, Tops Revenue Estimates",(Zacks),Aug-08-23,07:05PM,rivian automotive rivn report q loss top revenue estimate,0.183,0.556,0.262,0.25,Positive
+RIVN,Rivians Losses Narrow as Production Speeds Up,(The Wall Street Journal),Aug-08-23,07:05PM,rivians loss narrow production speed,0.31,0.69,0.0,-0.4019,Negative
+RIVN,Rivian boosts EV production target as supply problems ease,(Financial Times),Aug-08-23,07:05PM,rivian boost ev production target supply problem ease,0.2,0.444,0.356,0.2732,Positive
+RIVN,"Rivian raises production target, sees narrower loss for 2023",(Yahoo Finance),Aug-08-23,07:05PM,rivian raise production target see narrower loss,0.223,0.777,0.0,-0.3182,Negative
+RIVN,Rivian Automotive: Q2 Earnings Snapshot,(AP Finance),Aug-08-23,07:05PM,rivian automotive q earnings snapshot,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Markets Close in Red, but Well Off Lows; LYFT, RIVN, TWLO Report",(Zacks),Aug-08-23,07:05PM,market close red well low lyft rivn twlo report,0.148,0.673,0.178,0.1154,Positive
+RIVN,"Rivian Will Build 52,000 EVs This Year, More Than Planned",(Bloomberg),Aug-08-23,07:05PM,rivian build ev year planned,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rivian earnings, stock show they can be 'longstanding player' in EV space: Analyst",(Yahoo Finance Video),Aug-08-23,07:05PM,rivian earnings stock show longstanding player ev space analyst,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rivian earnings beat, boosts production outlook",(Yahoo Finance Video),Aug-08-23,07:05PM,rivian earnings beat boost production outlook,0.0,0.685,0.315,0.3182,Positive
+RIVN,Rivian Raises Production Forecast as Results Surprise Wall Street,(Barrons.com),Aug-08-23,07:05PM,rivian raise production forecast result surprise wall street,0.0,0.792,0.208,0.2732,Positive
+RIVN,"Rivian lifts 2023 EV production target, reassures on liquidity",(Reuters),Aug-08-23,07:05PM,rivian lift ev production target reassures liquidity,0.0,0.762,0.238,0.3612,Positive
+RIVN,Rivian Releases Second Quarter 2023 Financial Results,(Business Wire),Aug-08-23,07:05PM,rivian release second quarter financial result,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivians Wounded Shorts Set for Potential Squeeze,(Bloomberg),Aug-08-23,07:05PM,rivians wounded short set potential squeeze,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Rivian Stock: EV Automaker's Earnings Due, After Q2 Delivery Beat",(Investor's Business Daily),Aug-08-23,07:05PM,rivian stock ev automaker earnings due q delivery beat,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivians Results Are Coming. These Numbers Matter More Than Sales or Earnings.,(Barrons.com),Aug-08-23,07:05PM,rivians result coming number matter sale earnings,0.0,0.909,0.091,0.0258,Positive
+RIVN,"Lucid Group (LCID) Reports Q2 Loss, Lags Revenue Estimates",(Zacks),Aug-07-23,06:05PM,lucid group lcid report q loss lag revenue estimate,0.407,0.593,0.0,-0.5859,Negative
+RIVN,"Why EV Stocks Lucid Motors, Rivian, and Nikola Plunged Today",(Motley Fool),Aug-07-23,06:05PM,ev stock lucid motor rivian nikola plunged today,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Disney & AMC earnings, CPI, consumer sentiment: What to watch",(Yahoo Finance Video),Aug-07-23,06:05PM,disney amc earnings cpi consumer sentiment watch,0.0,1.0,0.0,0.0,Neutral
+RIVN,Why Earnings Season Could Be Great for Rivian Automotive (RIVN),(Zacks),Aug-07-23,06:05PM,earnings season could great rivian automotive rivn,0.0,0.687,0.313,0.6249,Positive
+RIVN,"10 Best EV, Battery and Autonomous Driving ETFs",(Insider Monkey),Aug-06-23,06:22PM,best ev battery autonomous driving etf,0.0,0.625,0.375,0.6369,Positive
+RIVN,"Disney & Lyft earnings, inflation data: What to watch next week",(Yahoo Finance Video),Aug-04-23,05:13PM,disney lyft earnings inflation data watch next week,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Tesla's Stock Top Stories: Tesla Faces Off Against Rivian, Legal Challenges, and Eyes India for Expansion",(Benzinga),Aug-04-23,05:13PM,tesla stock top story tesla face rivian legal challenge eye india expansion,0.0,0.739,0.261,0.3818,Positive
+RIVN,Could This Be Rivian's Biggest Threat Right Now?,(Motley Fool),Aug-04-23,05:13PM,could rivians biggest threat right,0.327,0.673,0.0,-0.5267,Negative
+RIVN,3 Red Flags for Rivian,(Motley Fool),Aug-04-23,05:13PM,red flag rivian,0.0,1.0,0.0,0.0,Neutral
+RIVN,Great News for Tesla Stock and Rivian Stock Investors as Ford Sends a Message,(Motley Fool),Aug-04-23,05:13PM,great news tesla stock rivian stock investor ford sends message,0.0,0.745,0.255,0.6249,Positive
+RIVN,Nikola (NKLA) to Report Q2 Earnings: Here's What to Expect,(Zacks),Aug-03-23,12:37PM,nikola nkla report q earnings here expect,0.0,1.0,0.0,0.0,Neutral
+RIVN,Is Rivian Stock about to Pop to $40?,(Motley Fool),Aug-03-23,12:37PM,rivian stock pop,0.0,1.0,0.0,0.0,Neutral
+RIVN,CrowdStrike and The Estee Lauder Companies have been highlighted as Zacks Bull and Bear of the Day,(Zacks),Aug-03-23,12:37PM,crowdstrike estee lauder company highlighted zacks bull bear day,0.0,1.0,0.0,0.0,Neutral
+RIVN,John Krafcik Joins Rivians Board of Directors,(Business Wire),Aug-02-23,04:07PM,john krafcik join rivians board director,0.0,1.0,0.0,0.0,Neutral
+RIVN,Why Rivian Stock Sank Today,(Motley Fool),Aug-02-23,04:07PM,rivian stock sank today,0.0,1.0,0.0,0.0,Neutral
+RIVN,3 Auto Stocks Set to Outpace Estimates This Earnings Season,(Zacks),Aug-02-23,04:07PM,auto stock set outpace estimate earnings season,0.0,1.0,0.0,0.0,Neutral
+RIVN,Best Growth Stock: Rivian Stock vs. Plug Power Stock,(Motley Fool),Aug-02-23,04:07PM,best growth stock rivian stock v plug power stock,0.0,0.507,0.493,0.7783,Positive
+RIVN,4 big analyst cuts: Rivian trimmed on valuation and stepped-up competition,(Investing.com),Aug-02-23,04:07PM,big analyst cut rivian trimmed valuation steppedup competition,0.196,0.804,0.0,-0.296,Negative
+RIVN,Why Rivian Stock Is Racing Lower Today,(Motley Fool),Aug-01-23,01:17PM,rivian stock racing lower today,0.268,0.732,0.0,-0.296,Negative
+RIVN,Lucid (LCID) to Report Q2 Earnings: Here's What to Expect,(Zacks),Aug-01-23,01:17PM,lucid lcid report q earnings here expect,0.0,1.0,0.0,0.0,Neutral
+RIVN,Rivian (RIVN) to Report Q2 Earnings: What's in the Cards?,(Zacks),Aug-01-23,01:17PM,rivian rivn report q earnings whats card,0.0,1.0,0.0,0.0,Neutral
+RIVN,"Goldman Sachs upgraded, Rivian downgraded: Wall Street's top analyst calls",(The Fly),Aug-01-23,01:17PM,goldman sachs upgraded rivian downgraded wall street top analyst call,0.0,0.833,0.167,0.2023,Positive
+RIVN,Rivian names Alan Hoffman as Chief Policy Officer,(Business Wire),Jul-31-23,09:00AM,rivian name alan hoffman chief policy officer,0.0,1.0,0.0,0.0,Neutral
+RIVN,How Smart Money Is Playing The $700 Billion EV Boom,(Oilprice.com),Jul-30-23,08:00PM,smart money playing billion ev boom,0.0,0.64,0.36,0.5423,Positive
+RIVN,"12 Best Energy ETFs: Top Oil, Gas and Renewable Energy Funds",(Insider Monkey),Jul-29-23,11:05AM,best energy etf top oil gas renewable energy fund,0.0,0.407,0.593,0.8481,Positive
+RIVN,Will Tesla's Price Cuts Kill Rivian's Rally?,(Motley Fool),Jul-29-23,11:05AM,tesla price cut kill rivians rally,0.58,0.42,0.0,-0.7845,Negative
+RIVN,Tesla Rolls Out the Cybertruck. Is Rivian Finished?,(Motley Fool),Jul-29-23,11:05AM,tesla roll cybertruck rivian finished,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPeng Stock Soars Above Key Level Amid Hopes For Earlier Profitability,(Investor's Business Daily),Aug-21-23,04:54PM,xpeng stock soar key level amid hope earlier profitability,0.0,0.647,0.353,0.5994,Positive
+XPEV,XPeng Inc. (NYSE:XPEV) Q2 2023 Earnings Call Transcript,(Insider Monkey),Aug-21-23,04:54PM,xpeng inc nysexpev q earnings call transcript,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPeng stock upgraded by BofA analyst on Volkswagen partnership,(Yahoo Finance Video),Aug-21-23,04:54PM,xpeng stock upgraded bofa analyst volkswagen partnership,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPeng Stock Surges on Upgrade. Positive Free Cash Flow Is in Sight.,(Barrons.com),Aug-21-23,04:54PM,xpeng stock surge upgrade positive free cash flow sight,0.0,0.592,0.408,0.7845,Positive
+XPEV,"XPeng Soars To Regain Key Level, Rebounding From Earnings Slide",(Investor's Business Daily),Aug-21-23,04:54PM,xpeng soar regain key level rebounding earnings slide,0.0,1.0,0.0,0.0,Neutral
+XPEV,"XPeng Soars Off Key Level, Rebounding From Post-Earnings Slide",(Investor's Business Daily),Aug-21-23,04:54PM,xpeng soar key level rebounding postearnings slide,0.0,1.0,0.0,0.0,Neutral
+XPEV,"XPeng upgraded, Napco downgraded: Wall Street's top analyst calls",(The Fly),Aug-21-23,04:54PM,xpeng upgraded napco downgraded wall street top analyst call,0.0,0.816,0.184,0.2023,Positive
+XPEV,"4 big analyst picks: BofA now bullish on EV maker XPeng, propelling shares higher",(Investing.com),Aug-21-23,04:54PM,big analyst pick bofa bullish ev maker xpeng propelling share higher,0.0,0.845,0.155,0.296,Positive
+XPEV,Analyst Report: XPeng Inc.,(Morningstar Research),Aug-20-23,11:47PM,analyst report xpeng inc,0.0,1.0,0.0,0.0,Neutral
+XPEV,"EV maker Xpeng expects jump in 3Q deliveries as its semi-autonomous SUV takes off, after posting wider loss",(South China Morning Post),Aug-19-23,05:30AM,ev maker xpeng expects jump q delivery semiautonomous suv take posting wider loss,0.119,0.881,0.0,-0.3182,Negative
+XPEV,Q2 2023 Xpeng Inc Earnings Call,(Thomson Reuters StreetEvents),Aug-19-23,05:30AM,q xpeng inc earnings call,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPeng (XPEV) Q2 2023 Earnings Call Transcript,(Motley Fool),Aug-18-23,05:00PM,xpeng xpev q earnings call transcript,0.0,1.0,0.0,0.0,Neutral
+XPEV,"XPeng Earnings Miss, But Its Tesla Model Y Rival In China Is 'Turbocharging' Sales",(Investor's Business Daily),Aug-18-23,05:00PM,xpeng earnings miss tesla model rival china turbocharging sale,0.098,0.902,0.0,-0.0772,Negative
+XPEV,These Are The 5 Best EV Stocks To Buy And Watch Now,(Investor's Business Daily),Aug-18-23,05:00PM,best ev stock buy watch,0.0,0.704,0.296,0.6369,Positive
+XPEV,XPeng Earnings Miss But Its Tesla Model Y Rival In China Is 'Turbocharging' Sales,(Investor's Business Daily),Aug-18-23,05:00PM,xpeng earnings miss tesla model rival china turbocharging sale,0.098,0.902,0.0,-0.0772,Negative
+XPEV,XPeng Stock Tumbles. Something Other Than Earnings Is Leading It Lower.,(Barrons.com),Aug-18-23,05:00PM,xpeng stock tumble something earnings leading lower,0.18,0.82,0.0,-0.296,Negative
+XPEV,XPeng Succumbed To Tesla's Price War But Rising Deliveries Provide Hints Of Recovery,(Benzinga),Aug-18-23,05:00PM,xpeng succumbed tesla price war rising delivery provide hint recovery,0.17,0.83,0.0,-0.3506,Negative
+XPEV,Shares Of Chinese EV Maker Xpeng Slide on Earnings Loss,(Investopedia),Aug-18-23,05:00PM,share chinese ev maker xpeng slide earnings loss,0.184,0.64,0.176,-0.0258,Negative
+XPEV,"XPeng Is Falling, but Here's Friday's Hardest-Hit Stock",(Motley Fool),Aug-18-23,05:00PM,xpeng falling here friday hardesthit stock,0.157,0.843,0.0,-0.0772,Negative
+XPEV,"Midday movers: Ross Stores, Applied Materials, Deere and more",(Investing.com),Aug-18-23,05:00PM,midday mover ross store applied material deere,0.0,1.0,0.0,0.0,Neutral
+XPEV,5 Things to Know Before Markets Open,(Investopedia),Aug-18-23,05:00PM,thing know market open,0.0,1.0,0.0,0.0,Neutral
+XPEV,"XPeng Earnings Miss, But EV Startup Sees Q3 Delivery Surge. The Stock Is Falling Anyway.",(Investor's Business Daily),Aug-18-23,05:00PM,xpeng earnings miss ev startup see q delivery surge stock falling anyway,0.198,0.802,0.0,-0.296,Negative
+XPEV,XPengs Second-Quarter Net Loss Widened on Sales Slump,(The Wall Street Journal),Aug-18-23,05:00PM,xpengs secondquarter net loss widened sale slump,0.247,0.753,0.0,-0.3182,Negative
+XPEV,XPeng Stock Tumbles on Wider-Than-Expected Loss,(Barrons.com),Aug-18-23,05:00PM,xpeng stock tumble widerthanexpected loss,0.315,0.685,0.0,-0.3182,Negative
+XPEV,XPENG Reports Second Quarter 2023 Unaudited Financial Results,(Business Wire),Aug-18-23,05:00PM,xpeng report second quarter unaudited financial result,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPengs Earnings Should Be Wild. Theyll Matter for Tesla.,(Barrons.com),Aug-17-23,05:19PM,xpengs earnings wild theyll matter tesla,0.0,0.879,0.121,0.0258,Positive
+XPEV,"XPeng Earnings Due. This Is Key As China Slows, Tesla Chops Prices.",(Investor's Business Daily),Aug-17-23,05:19PM,xpeng earnings due key china slows tesla chop price,0.0,1.0,0.0,0.0,Neutral
+XPEV,VinFast Stock Falls for Second Day; Chinese EV Shares Rise,(The Wall Street Journal),Aug-17-23,05:19PM,vinfast stock fall second day chinese ev share rise,0.908,0.072,0.02,-0.9992,Negative
+XPEV,VinFast Stock Plunges After EV Maker's Blockbuster Nasdaq Debut,(The Wall Street Journal),Aug-16-23,09:52AM,vinfast stock plunge ev maker blockbuster nasdaq debut,0.0,0.672,0.328,0.5994,Positive
+XPEV,Best Stocks to Buy Now: Rivian vs. Nio vs. Li vs. XPeng,(Motley Fool),Aug-15-23,05:30AM,best stock buy rivian v nio v li v xpeng,0.0,0.724,0.276,0.6369,Positive
+XPEV,"Tesla Stock Falls After China Price Cuts, Local EV Rivals Also Drop",(The Wall Street Journal),Aug-14-23,12:55PM,tesla stock fall china price cut local ev rival also drop,0.921,0.079,0.0,-0.9993,Negative
+XPEV,CORRECTING and REPLACING Premium EV Manufacturer XPENG Chooses ACCESS To Provide In-Vehicle Infotainment,(Business Wire),Aug-14-23,12:55PM,correcting replacing premium ev manufacturer xpeng chooses access provide invehicle infotainment,0.0,1.0,0.0,0.0,Neutral
+XPEV,"Tesla Stock Falls on China Price Cuts, Local EV Rivals Also Drop",(The Wall Street Journal),Aug-14-23,12:55PM,tesla stock fall china price cut local ev rival also drop,0.921,0.079,0.0,-0.9993,Negative
+XPEV,"Big-box earnings, retail sales, Fed minutes: What to know this week",(Yahoo Finance),Aug-13-23,12:48PM,bigbox earnings retail sale fed minute know week,0.0,1.0,0.0,0.0,Neutral
+XPEV,These Are The 6 Best EV Stocks To Buy And Watch Now,(Investor's Business Daily),Aug-11-23,10:44AM,best ev stock buy watch,0.0,0.704,0.296,0.6369,Positive
+XPEV,XPeng Inc. Sponsored ADR (XPEV) Stock Sinks As Market Gains: What You Should Know,(Zacks),Aug-10-23,05:50PM,xpeng inc sponsored adr xpev stock sink market gain know,0.0,0.844,0.156,0.34,Positive
+XPEV,"Buy Li Auto Stock, Sell XPeng. China EV Earnings Matter.",(Barrons.com),Aug-10-23,05:50PM,buy li auto stock sell xpeng china ev earnings matter,0.0,0.891,0.109,0.0258,Positive
+XPEV,Analyst Report: XPeng Inc.,(Morningstar Research),Aug-08-23,06:56PM,analyst report xpeng inc,0.0,1.0,0.0,0.0,Neutral
+XPEV,"Why QuantumScape, Nio, and XPeng Stocks Rocketed More Than 50% Higher in July",(Motley Fool),Aug-08-23,06:56PM,quantumscape nio xpeng stock rocketed higher july,0.0,1.0,0.0,0.0,Neutral
+XPEV,The 3 Best Flying Cars Stocks to Buy in August,(InvestorPlace),Aug-08-23,06:56PM,best flying car stock buy august,0.0,0.656,0.344,0.6369,Positive
+XPEV,"10 Best EV, Battery and Autonomous Driving ETFs",(Insider Monkey),Aug-06-23,06:22PM,best ev battery autonomous driving etf,0.0,0.625,0.375,0.6369,Positive
+XPEV,The 7 Best EV and Battery Stocks to Buy in 2023,(InvestorPlace),Aug-06-23,06:22PM,best ev battery stock buy,0.0,0.682,0.318,0.6369,Positive
+XPEV,"EVgo Charging Network Sees Revenue Soar, Uplifted By Project Tied To Warren Buffett",(Investor's Business Daily),Aug-04-23,04:07PM,evgo charging network see revenue soar uplifted project tied warren buffett,0.0,1.0,0.0,0.0,Neutral
+XPEV,3 Cheap Autonomous Driving Stocks That Smart Investors Will Snap Up Now,(InvestorPlace),Aug-04-23,04:07PM,cheap autonomous driving stock smart investor snap,0.0,0.787,0.213,0.4019,Positive
+XPEV,"EV Charging Network EVgo Sees Revenue Soar, Uplifted By Project Tied To Warren Buffett",(Investor's Business Daily),Aug-03-23,03:45PM,ev charging network evgo see revenue soar uplifted project tied warren buffett,0.0,1.0,0.0,0.0,Neutral
+XPEV,Tesla's EV Sales in China Fell More Than 30% in July,(Investopedia),Aug-03-23,03:45PM,tesla ev sale china fell july,0.0,1.0,0.0,0.0,Neutral
+XPEV,EV Charging Stock Soars On Earnings. IBD 50 Leader Hits Fresh High.,(Investor's Business Daily),Aug-03-23,03:45PM,ev charging stock soar earnings ibd leader hit fresh high,0.0,0.827,0.173,0.3182,Positive
+XPEV,Baidu's Ernie Bot to be used in Great Wall Motor's vehicles to enhance conversation between driver and car,(South China Morning Post),Aug-03-23,03:45PM,baidus ernie bot used great wall motor vehicle enhance conversation driver car,0.0,0.806,0.194,0.6249,Positive
+XPEV,A $15 Billion Electric Vehicle Niche Is Flying Under Wall Streets Radar,(Oilprice.com),Aug-02-23,07:00PM,billion electric vehicle niche flying wall street radar,0.0,1.0,0.0,0.0,Neutral
+XPEV,UPDATE 1-XPeng's vice president of autonomous driving resigns,(Reuters),Aug-02-23,07:00PM,update xpengs vice president autonomous driving resigns,0.247,0.753,0.0,-0.3182,Negative
+XPEV,XPENG Announces Management Change,(Business Wire),Aug-02-23,07:00PM,xpeng announces management change,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPeng CEO: autonomous driving centre VP to resign from his position,(Reuters),Aug-02-23,07:00PM,xpeng ceo autonomous driving centre vp resign position,0.194,0.806,0.0,-0.34,Negative
+XPEV,UPDATE 2-Volkswagen in talks with Leapmotor on tech tie-up for Jetta brand - China media,(Reuters),Aug-02-23,07:00PM,update volkswagen talk leapmotor tech tieup jetta brand china medium,0.0,1.0,0.0,0.0,Neutral
+XPEV,"Li Auto Pops To High On Robust Sales, But Nio May Have Edge Ahead",(Investor's Business Daily),Aug-01-23,04:07PM,li auto pop high robust sale nio may edge ahead,0.0,0.884,0.116,0.1779,Positive
+XPEV,Tesla's China Rivals Post Robust Deliveries. This EV Stock Hits New High.,(Investor's Business Daily),Aug-01-23,04:07PM,tesla china rival post robust delivery ev stock hit new high,0.0,0.821,0.179,0.34,Positive
+XPEV,"NIO, Li, and XPeng Post Huge Deliveries Numbers. Thats Good for Tesla Stock.",(Barrons.com),Aug-01-23,04:07PM,nio li xpeng post huge delivery number thats good tesla stock,0.0,0.679,0.321,0.6369,Positive
+XPEV,Tesla's China Rivals Amp Up EV Deliveries. Two Stocks Double This Year.,(Investor's Business Daily),Aug-01-23,04:07PM,tesla china rival amp ev delivery two stock double year,0.0,1.0,0.0,0.0,Neutral
+XPEV,"Huge Delivery Numbers From, NIO, Li, and XPeng Are Good for Tesla Stock",(Barrons.com),Aug-01-23,04:07PM,huge delivery number nio li xpeng good tesla stock,0.0,0.679,0.321,0.6369,Positive
+XPEV,"XPENG to Report Second Quarter 2023 Financial Results on Friday, August 18, 2023",(Business Wire),Aug-01-23,04:07PM,xpeng report second quarter financial result friday august,0.0,1.0,0.0,0.0,Neutral
+XPEV,XPENG Announces Vehicle Delivery Results for July 2023,(Business Wire),Aug-01-23,04:07PM,xpeng announces vehicle delivery result july,0.0,1.0,0.0,0.0,Neutral
+XPEV,"Tesla's China Rivals Nio, Li Auto, XPeng Amp Up Their EV Game. Two Stocks Double This Year.",(Investor's Business Daily),Jul-31-23,02:28PM,tesla china rival nio li auto xpeng amp ev game two stock double year,0.0,1.0,0.0,0.0,Neutral
+XPEV,"Adobe upgraded, Salesforce downgraded: Wall Street's top analyst calls",(The Fly),Jul-31-23,02:28PM,adobe upgraded salesforce downgraded wall street top analyst call,0.0,0.816,0.184,0.2023,Positive
+XPEV,4 big deal reports: Biogen shells out $7.3B for Reata Pharma,(Investing.com),Jul-31-23,02:28PM,big deal report biogen shell b reata pharma,0.0,1.0,0.0,0.0,Neutral
+XPEV,Tesla's India moves - and dashboard manipulation allegations: This week in EVs,(Investing.com),Jul-30-23,12:29AM,tesla india move dashboard manipulation allegation week ev,0.18,0.82,0.0,-0.296,Negative
+XPEV,"Tesla, EV Stocks Rise as Ford Shares Retreat",(The Wall Street Journal),Jul-28-23,02:44PM,tesla ev stock rise ford share retreat,0.0,0.6,0.4,0.4588,Positive
+XPEV,"Block upgraded, Southwest downgraded: Wall Street's top analyst calls",(The Fly),Jul-28-23,02:44PM,block upgraded southwest downgraded wall street top analyst call,0.248,0.598,0.154,-0.2732,Negative
+XPEV,"Buy XPeng Stock, Says Analyst. Its About VW.",(Barrons.com),Jul-28-23,02:44PM,buy xpeng stock say analyst vw,0.0,1.0,0.0,0.0,Neutral
+XPEV,Volkswagen Seeks to Reclaim China Crown in Deal With EV-Maker XPeng,(The Wall Street Journal),Jul-28-23,02:44PM,volkswagen seek reclaim china crown deal evmaker xpeng,0.0,1.0,0.0,0.0,Neutral
+XPEV,"US Hedge Funds Unload $700 Million of China ADRs, Morgan Stanley Says",(Bloomberg),Jul-27-23,07:11PM,u hedge fund unload million china adrs morgan stanley say,0.0,1.0,0.0,0.0,Neutral
+XPEV,"VW stock lower as auto giant cuts sales forecast, refocuses China efforts",(Yahoo Finance),Jul-27-23,07:11PM,vw stock lower auto giant cut sale forecast refocuses china effort,0.306,0.694,0.0,-0.5267,Negative
+XPEV,VW-Xpeng EV models to use Xpeng platform in boost for Chinese startup,(Reuters),Jul-27-23,07:11PM,vwxpeng ev model use xpeng platform boost chinese startup,0.0,0.803,0.197,0.4019,Positive
+XPEV,UPDATE 1-VW-Xpeng EV models to use Xpeng platform in boost for Chinese startup,(Reuters),Jul-27-23,07:11PM,update vwxpeng ev model use xpeng platform boost chinese startup,0.0,0.816,0.184,0.4019,Positive
+XPEV,"Global Stocks to Watch Thursday: Barclays, Shell, Volkswagen, Xpeng",(The Wall Street Journal),Jul-27-23,07:11PM,global stock watch thursday barclays shell volkswagen xpeng,0.0,1.0,0.0,0.0,Neutral
+XPEV,VW cuts global delivery forecast after sales fall in China,(Financial Times),Jul-27-23,07:11PM,vw cut global delivery forecast sale fall china,0.196,0.804,0.0,-0.296,Negative
+XPEV,Volkswagens EV Gambit in China Makes Sense,(The Wall Street Journal),Jul-27-23,07:11PM,volkswagens ev gambit china make sense,0.0,1.0,0.0,0.0,Neutral
+XPEV,Volkswagen and Xpeng to use Xpeng's G9 platform for jointly developed EV models,(Reuters),Jul-27-23,07:11PM,volkswagen xpeng use xpengs g platform jointly developed ev model,0.0,1.0,0.0,0.0,Neutral
+XPEV,VW Takes $700M Xpeng Stake for EV Pact to Win Back China,(Bloomberg),Jul-27-23,07:11PM,vw take xpeng stake ev pact win back china,0.0,0.743,0.257,0.5859,Positive
+XPEV,"Boeing earnings, Volkswagen's XPeng investment, Snap stock: Trending tickers",(Yahoo Finance Video),Jul-26-23,04:30PM,boeing earnings volkswagens xpeng investment snap stock trending ticker,0.0,1.0,0.0,0.0,Neutral
+XPEV,Why XPeng Shares Shot Higher Today,(Motley Fool),Jul-26-23,04:30PM,xpeng share shot higher today,0.0,0.694,0.306,0.296,Positive
+XPEV,Volkswagen invests $700mn in Chinas Xpeng to boost faltering car sales,(Financial Times),Jul-26-23,04:30PM,volkswagen invests mn china xpeng boost faltering car sale,0.0,0.787,0.213,0.4019,Positive
+XPEV,"Tilray revenue, Union Pacific new CEO, Volkswagen's XPeng investment: Top stories",(Yahoo Finance Video),Jul-26-23,04:30PM,tilray revenue union pacific new ceo volkswagens xpeng investment top story,0.0,0.847,0.153,0.2023,Positive
+XPEV,XPeng Stock Soars on Unexpected Investment by VW. Rivian Rises Too.,(Barrons.com),Jul-26-23,04:30PM,xpeng stock soar unexpected investment vw rivian rise,0.0,1.0,0.0,0.0,Neutral
+XPEV,Volkswagen Takes $700 Million Xpeng Stake for EV Pact to Win Back China,(Bloomberg),Jul-26-23,04:30PM,volkswagen take million xpeng stake ev pact win back china,0.0,0.759,0.241,0.5859,Positive
+XPEV,"UPDATE 2-Volkswagen buys Xpeng stake, partners with SAIC to boost China EV lineup",(Reuters),Jul-26-23,04:30PM,update volkswagen buy xpeng stake partner saic boost china ev lineup,0.0,0.816,0.184,0.4019,Positive
+XPEV,XPENG and the Volkswagen Group Announce Entry into Framework Agreement on Strategic Technical Collaboration and Strategic Minority Investment by the Volkswagen Group in XPENG,(Business Wire),Jul-26-23,04:30PM,xpeng volkswagen group announce entry framework agreement strategic technical collaboration strategic minority investment volkswagen group xpeng,0.0,0.878,0.122,0.4939,Positive
+XPEV,"Volkswagen to expand China line-up with Xpeng, SAIC partnerships",(Reuters),Jul-26-23,04:30PM,volkswagen expand china lineup xpeng saic partnership,0.0,0.777,0.223,0.3182,Positive
+XPEV,Analyst Report: XPeng Inc.,(Morningstar Research),Jul-24-23,06:52PM,analyst report xpeng inc,0.0,1.0,0.0,0.0,Neutral
+XPEV,4 big analyst cuts: Carvana downgraded again despite impressive Q2 results,(Investing.com),Jul-21-23,02:26AM,big analyst cut carvana downgraded despite impressive q result,0.38,0.62,0.0,-0.5996,Negative
+XPEV,XPeng Inc. Sponsored ADR (XPEV) Gains As Market Dips: What You Should Know,(Zacks),Jul-20-23,06:00PM,xpeng inc sponsored adr xpev gain market dip know,0.0,0.833,0.167,0.34,Positive
+XPEV,"Tesla stock is worth only $85 after gross margin whiff, analyst says: Wall Street reacts",(Yahoo Finance),Jul-20-23,06:00PM,tesla stock worth gross margin whiff analyst say wall street reacts,0.172,0.722,0.106,-0.296,Negative
+XPEV,An Intrinsic Calculation For XPeng Inc. (NYSE:XPEV) Suggests It's 46% Undervalued,(Simply Wall St.),Jul-18-23,09:55AM,intrinsic calculation xpeng inc nysexpev suggests undervalued,0.0,1.0,0.0,0.0,Neutral
+XPEV,Best EV Stocks: Nio vs. XPeng vs. Li Auto,(Motley Fool),Jul-17-23,07:03PM,best ev stock nio v xpeng v li auto,0.0,0.656,0.344,0.6369,Positive
+XPEV,3 Flying Car Stocks for Getting Rich in 2023,(InvestorPlace),Jul-17-23,07:03PM,flying car stock getting rich,0.0,0.66,0.34,0.5574,Positive
+XPEV,XPeng Inc. Sponsored ADR (XPEV) Dips More Than Broader Markets: What You Should Know,(Zacks),Jul-14-23,06:00PM,xpeng inc sponsored adr xpev dip broader market know,0.0,1.0,0.0,0.0,Neutral
+XPEV,Ray Dalios China Stocks,(Insider Monkey),Jul-14-23,06:00PM,ray dalios china stock,0.0,1.0,0.0,0.0,Neutral
+XPEV,Nio Stock Eyes Return To Glory. Its EV Sales Are Set To Accelerate.,(Investor's Business Daily),Jul-12-23,04:15PM,nio stock eye return glory ev sale set accelerate,0.0,0.774,0.226,0.5423,Positive
+XPEV,LI Stock Prediction: Li Auto Will Be a Vehicle for Profits in H2 2023,(InvestorPlace),Jul-11-23,07:31AM,li stock prediction li auto vehicle profit h,0.0,0.805,0.195,0.4404,Positive
+XPEV,XPeng's Model Y Rival Hits The Road. This Will Be Key As EV Startup Makes 'Last Stand.',(Investor's Business Daily),Jul-10-23,04:21PM,xpengs model rival hit road key ev startup make last stand,0.0,1.0,0.0,0.0,Neutral
+XPEV,3 Energy Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023,(InvestorPlace),Jul-10-23,04:21PM,energy stock ai predicts deliver tripledigit return,0.0,0.826,0.174,0.2732,Positive
+XPEV,"Tesla, Ford, GM report hefty deliveries; shareholders vs. Rivian: This week in EVs",(Investing.com),Jul-09-23,02:35AM,tesla ford gm report hefty delivery shareholder v rivian week ev,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid CEO: Air EV price cuts 'well received,' Gravity SUV reveal set for November",(Yahoo Finance),Aug-22-23,01:25PM,lucid ceo air ev price cut well received gravity suv reveal set november,0.135,0.736,0.129,-0.0258,Negative
+LCID,"Lucid returning to original price structure, CEO explains",(Yahoo Finance Video),Aug-22-23,01:25PM,lucid returning original price structure ceo explains,0.0,0.753,0.247,0.3182,Positive
+LCID,Tesla Alums Win Big in Green Energy Bonanza,(The Wall Street Journal),Aug-15-23,05:30AM,tesla alum win big green energy bonanza,0.0,0.504,0.496,0.7096,Positive
+LCID,Tesla stock falls after slashing some Model Y prices in China,(Yahoo Finance Video),Aug-14-23,09:55AM,tesla stock fall slashing model price china,0.928,0.072,0.0,-0.9993,Negative
+LCID,"Sentiment Check: Everyday Investors Shun Cyclicals, Buy Tech",(The Wall Street Journal),Aug-09-23,09:13AM,sentiment check everyday investor shun cyclicals buy tech,0.0,1.0,0.0,0.0,Neutral
+LCID,Rivians Losses Narrow as Production Speeds Up,(The Wall Street Journal),Aug-08-23,06:41PM,rivians loss narrow production speed,0.31,0.69,0.0,-0.4019,Negative
+LCID,"Rivian raises production target, sees narrower loss for 2023",(Yahoo Finance),Aug-08-23,06:41PM,rivian raise production target see narrower loss,0.223,0.777,0.0,-0.3182,Negative
+LCID,"Lucid stock rises despite earnings miss, unveils Air Sapphire: Trending Ticker",(Yahoo Finance Video),Aug-08-23,06:41PM,lucid stock rise despite earnings miss unveils air sapphire trending ticker,0.0,0.874,0.126,0.1139,Positive
+LCID,Lucid Announces Final Production Specifications for the Lucid Air Sapphire: The World's First Luxury Electric Super-Sports Sedan,(PR Newswire),Aug-08-23,06:41PM,lucid announces final production specification lucid air sapphire world first luxury electric supersports sedan,0.0,1.0,0.0,0.0,Neutral
+LCID,Shares of EV Maker Lucid Are in the Red. Earnings Missed.,(Barrons.com),Aug-08-23,06:41PM,share ev maker lucid red earnings missed,0.164,0.672,0.164,0.0,Neutral
+LCID,Lucid Misses Earnings Estimates. Share Rise Anyway.,(Barrons.com),Aug-07-23,06:22PM,lucid miss earnings estimate share rise anyway,0.455,0.379,0.167,-0.7003,Negative
+LCID,"Paramount Global, Lucid Group, Beyond Meat, Chegg: After-hours movers",(Yahoo Finance Video),Aug-07-23,06:22PM,paramount global lucid group beyond meat chegg afterhours mover,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid earnings: EV maker reports Q2 revenue, earnings miss; reiterates Gravity SUV on track",(Yahoo Finance),Aug-07-23,06:22PM,lucid earnings ev maker report q revenue earnings miss reiterates gravity suv track,0.11,0.89,0.0,-0.1531,Negative
+LCID,"Lucid Announces Second Quarter 2023 Financial Results, On Track for Annual Production Guidance of More Than 10,000 Vehicles",(PR Newswire),Aug-07-23,06:22PM,lucid announces second quarter financial result track annual production guidance vehicle,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid slashes prices of Air EVs as Q2 earnings loom,(Yahoo Finance),Aug-07-23,06:22PM,lucid slash price air ev q earnings loom,0.316,0.684,0.0,-0.4019,Negative
+LCID,"Disney & AMC earnings, CPI, consumer sentiment: What to watch",(Yahoo Finance Video),Aug-07-23,06:22PM,disney amc earnings cpi consumer sentiment watch,0.0,1.0,0.0,0.0,Neutral
+LCID,"Disney & Lyft earnings, inflation data: What to watch next week",(Yahoo Finance Video),Aug-04-23,05:13PM,disney lyft earnings inflation data watch next week,0.0,1.0,0.0,0.0,Neutral
+LCID,Steer Clear of Lucid Stock or Brace Yourself for Serious Portfolio Pain,(InvestorPlace),Jul-21-23,06:25AM,steer clear lucid stock brace serious portfolio pain,0.284,0.556,0.16,-0.25,Negative
+LCID,Lucid board member on EV competition: We're not targeting Tesla,(Yahoo Finance),Jul-18-23,09:37AM,lucid board member ev competition targeting tesla,0.0,1.0,0.0,0.0,Neutral
+LCID,The new China has arrived and companies need to adjust: Former Dow CEO,(Yahoo Finance Video),Jul-17-23,04:13PM,new china arrived company need adjust former dow ceo,0.0,1.0,0.0,0.0,Neutral
+LCID,"Tesla, Lucid Stocks Rise; Ford Shares Fall",(The Wall Street Journal),Jul-17-23,04:13PM,tesla lucid stock rise ford share fall,0.0,0.732,0.268,0.296,Positive
+LCID,Tesla Stock Rises; Ford Shares Fall,(The Wall Street Journal),Jul-17-23,04:13PM,tesla stock rise ford share fall,0.0,0.694,0.306,0.296,Positive
+LCID,"Tesla Stock Rises, Ford Shares Fall",(The Wall Street Journal),Jul-17-23,04:13PM,tesla stock rise ford share fall,0.0,0.694,0.306,0.296,Positive
+LCID,Lucid stock plummets after missing on Q2 EV delivery estimates,(Yahoo Finance Video),Jul-12-23,04:49PM,lucid stock plummet missing q ev delivery estimate,0.196,0.804,0.0,-0.296,Negative
+LCID,Lucid Electric Vehicle Deliveries Fall Short of Estimates and Shares Sink,(Investopedia),Jul-12-23,04:49PM,lucid electric vehicle delivery fall short estimate share sink,0.0,0.82,0.18,0.296,Positive
+LCID,"Stocks to Watch Wednesday: Domino's, Coty, Activision, Lucid",(The Wall Street Journal),Jul-12-23,04:49PM,stock watch wednesday domino coty activision lucid,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid stock tumbles as EV maker misses on Q2 deliveries,(Yahoo Finance),Jul-12-23,04:49PM,lucid stock tumble ev maker miss q delivery,0.4,0.6,0.0,-0.7906,Negative
+LCID,Lucid Veers Off Course,(The Wall Street Journal),Jul-12-23,04:49PM,lucid veers course,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid Announces Q2 Production & Deliveries, Sets Date for Second Quarter 2023 Results",(PR Newswire),Jul-12-23,04:49PM,lucid announces q production delivery set date second quarter result,0.0,1.0,0.0,0.0,Neutral
+LCID,"Stocks to Watch Monday: Tesla, Rivian, AstraZeneca",(The Wall Street Journal),Jul-03-23,12:37PM,stock watch monday tesla rivian astrazeneca,0.0,1.0,0.0,0.0,Neutral
+LCID,Tesla Stock Jumps as Price Cuts Juice Deliveries; Other EV Makers Rally,(The Wall Street Journal),Jul-03-23,12:37PM,tesla stock jump price cut juice delivery ev maker rally,0.167,0.833,0.0,-0.296,Negative
+LCID,One Big Bet: Traders Love Rivianand Other Electric-Car Makers,(The Wall Street Journal),Jul-03-23,12:37PM,one big bet trader love rivianand electriccar maker,0.0,0.656,0.344,0.6369,Positive
+LCID,Tesla Stock Jumps After Price-Cut Strategy Juices Deliveries; EV Makers Rally,(The Wall Street Journal),Jul-03-23,12:37PM,tesla stock jump pricecut strategy juice delivery ev maker rally,0.0,1.0,0.0,0.0,Neutral
+LCID,Lordstown Motors files for bankruptcy: Why there could be more consolidation in the EV space,(Yahoo Finance Video),Jun-27-23,04:29PM,lordstown motor file bankruptcy could consolidation ev space,0.0,1.0,0.0,0.0,Neutral
+LCID,Lordstown bankruptcy points to EV hype that didn't deliver,(Yahoo Finance),Jun-27-23,04:29PM,lordstown bankruptcy point ev hype didnt deliver,0.0,1.0,0.0,0.0,Neutral
+LCID,Tesla Leads Surge in Battered Clean-Energy Stocks,(The Wall Street Journal),Jun-26-23,05:01PM,tesla lead surge battered cleanenergy stock,0.0,1.0,0.0,0.0,Neutral
+LCID,"Aston Martin, Lucid reach EV tech deal, stocks soar",(Yahoo Finance),Jun-26-23,05:01PM,aston martin lucid reach ev tech deal stock soar,0.0,0.879,0.121,0.0258,Positive
+LCID,Lucid Stock Jumps on Aston Martin Electric-Vehicle Partnership,(The Wall Street Journal),Jun-26-23,05:01PM,lucid stock jump aston martin electricvehicle partnership,0.0,1.0,0.0,0.0,Neutral
+LCID,Traders Pounce on Lucid Stock After EV-Partnership With Aston Martin,(The Wall Street Journal),Jun-26-23,05:01PM,trader pounce lucid stock evpartnership aston martin,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid strikes EV technology deal with Aston Martin,(Yahoo Finance Video),Jun-26-23,05:01PM,lucid strike ev technology deal aston martin,0.263,0.737,0.0,-0.3612,Negative
+LCID,Do Tesla downgrades matter?,(Yahoo Finance Video),Jun-26-23,05:01PM,tesla downgrade matter,0.0,0.732,0.268,0.0258,Positive
+LCID,Lucid Revs Up Aston Martins EV Plans,(The Wall Street Journal),Jun-26-23,05:01PM,lucid rev aston martin ev plan,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid stock jumps on EV partnership with Aston Martin,(Yahoo Finance Video),Jun-26-23,05:01PM,lucid stock jump ev partnership aston martin,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid's World-Leading Electric Powertrain Technology Propels Aston Martin to a Bold Electric Future,(PR Newswire),Jun-26-23,05:01PM,lucids worldleading electric powertrain technology propels aston martin bold electric future,0.0,0.809,0.191,0.3818,Positive
+LCID,Lucid's World-Leading Electric Powertrain Technology Propels Aston Martin to a Bold Electric Future,(CNW Group),Jun-26-23,05:01PM,lucids worldleading electric powertrain technology propels aston martin bold electric future,0.0,0.809,0.191,0.3818,Positive
+LCID,Why LCID Stock Investors Need to Buckle Up or Get Out Now,(InvestorPlace),Jun-13-23,06:00AM,lcid stock investor need buckle get,0.0,1.0,0.0,0.0,Neutral
+LCID,Carvana & Lucid shares rise: Top tickers,(Yahoo Finance Video),Jun-08-23,04:26PM,carvana lucid share rise top ticker,0.0,0.5,0.5,0.4588,Positive
+LCID,Lucid stock rises on plans to join China's EV market: Report,(Yahoo Finance Video),Jun-08-23,04:26PM,lucid stock rise plan join china ev market report,0.0,0.82,0.18,0.296,Positive
+LCID,439 Million Reasons NOT to Buy Lucid Stock,(InvestorPlace),Jun-06-23,06:00AM,million reason buy lucid stock,0.0,1.0,0.0,0.0,Neutral
+LCID,"Buy Alphabet & Jefferies, avoid American Airlines & Lucid: Strategist",(Yahoo Finance Video),Jun-05-23,03:42PM,buy alphabet jefferies avoid american airline lucid strategist,0.239,0.761,0.0,-0.296,Negative
+LCID,Steer Clear of Lucid Stock Even as Big Players Make Bold Bets,(InvestorPlace),Jun-02-23,11:42AM,steer clear lucid stock even big player make bold bet,0.0,0.658,0.342,0.6369,Positive
+LCID,"Lucid, C3.ai, Retail stocks: Thursday's trending tickers",(Yahoo Finance Video),Jun-01-23,04:39PM,lucid cai retail stock thursday trending ticker,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid Group, Inc. Announces Pricing of Public Offering of Common Stock and Corresponding Investment by an Affiliate of PIF for Aggregate Gross Proceeds of Approximately $3.0 Billion",(PR Newswire),May-31-23,09:12PM,lucid group inc announces pricing public offering common stock corresponding investment affiliate pif aggregate gross proceeds approximately billion,0.107,0.893,0.0,-0.4767,Negative
+LCID,"Lucid Group, Inc. Announces Public Offering of Common Stock and Corresponding Investment by an Affiliate of PIF for Aggregate Expected Gross Proceeds of Approximately $3.0 Billion",(PR Newswire),May-31-23,09:12PM,lucid group inc announces public offering common stock corresponding investment affiliate pif aggregate expected gross proceeds approximately billion,0.11,0.89,0.0,-0.4767,Negative
+LCID,EV startups will have to 'race to catch Tesla' in maturing EV market: Expert,(Yahoo Finance Video),May-12-23,12:11PM,ev startup race catch tesla maturing ev market expert,0.0,1.0,0.0,0.0,Neutral
+LCID,EV Startups Are Proving Warren Buffett Right,(The Wall Street Journal),May-11-23,01:16PM,ev startup proving warren buffett right,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid Motors Announces Andrea Soriani as Vice President of Marketing,(PR Newswire),May-09-23,09:00AM,lucid motor announces andrea soriani vice president marketing,0.0,1.0,0.0,0.0,Neutral
+LCID,Tesla analyst: 'We don't think that this is the floor' for price cuts,(Yahoo Finance Video),May-08-23,05:54PM,tesla analyst dont think floor price cut,0.155,0.845,0.0,-0.296,Negative
+LCID,"Stocks moving in after hours: PayPal, Palantir, Lucid",(Yahoo Finance Video),May-08-23,05:54PM,stock moving hour paypal palantir lucid,0.0,1.0,0.0,0.0,Neutral
+LCID,"Rivian has structural, demand challenges to overcome 'to unlock real value' of the EV stock: Analyst",(Yahoo Finance Video),May-08-23,05:54PM,rivian structural demand challenge overcome unlock real value ev stock analyst,0.082,0.714,0.203,0.296,Positive
+LCID,"Lucid earnings: EV-maker reports revenue, profit miss; targets 10,000 units produced this year",(Yahoo Finance),May-08-23,05:54PM,lucid earnings evmaker report revenue profit miss target unit produced year,0.103,0.71,0.187,0.3182,Positive
+LCID,Lucid Announces First Quarter 2023 Financial Results,(PR Newswire),May-08-23,05:54PM,lucid announces first quarter financial result,0.0,1.0,0.0,0.0,Neutral
+LCID,Dont Count on a Comeback for Lucid Stock,(InvestorPlace),Apr-28-23,06:00AM,dont count comeback lucid stock,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid begins testing on its 'Gravity' All-Electric SUV,(Yahoo Finance Video),Apr-25-23,04:37PM,lucid begin testing gravity allelectric suv,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid's Upcoming Gravity Luxury Electric SUV Hits the Road in Latest Phase of Development and Testing,(PR Newswire),Apr-25-23,04:37PM,lucids upcoming gravity luxury electric suv hit road latest phase development testing,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid Announces New Board Members, Sherif Marakby, Chabi Nouri, and Ori Winitzer",(PR Newswire),Apr-24-23,01:00PM,lucid announces new board member sherif marakby chabi nouri ori winitzer,0.0,1.0,0.0,0.0,Neutral
+LCID,2023 Lucid Air Touring: A Much Maligned EV Deserves a Second Look,(The Wall Street Journal),Apr-20-23,04:30PM,lucid air touring much maligned ev deserves second look,0.0,1.0,0.0,0.0,Neutral
+LCID,The Power of the Dark Side; Lucid Begins Deliveries of 'Stealth Appearance' Darkened Exterior Design Theme,(PR Newswire),Apr-20-23,04:30PM,power dark side lucid begin delivery stealth appearance darkened exterior design theme,0.08,0.92,0.0,-0.0772,Negative
+LCID,Lucid Joins the United Nations Global Compact,(PR Newswire),Apr-19-23,09:00AM,lucid join united nation global compact,0.0,0.682,0.318,0.4215,Positive
+LCID,Uh-Oh. The Situation With Lucid Stock Has Gone From Bad to Worse.,(InvestorPlace),Apr-19-23,09:00AM,uhoh situation lucid stock gone bad worse,0.398,0.602,0.0,-0.765,Negative
+LCID,Lucid Air Grand Touring: A phenomenal EV that shows the future is here,(Yahoo Finance),Apr-16-23,11:01AM,lucid air grand touring phenomenal ev show future,0.0,0.786,0.214,0.4588,Positive
+LCID,Don't want a Tesla? Here are your top 5 EV options,(Yahoo Finance),Apr-15-23,01:20PM,dont want tesla top ev option,0.122,0.698,0.18,0.1476,Positive
+LCID,The top non-Tesla EVs for consumers,(Yahoo Finance Video),Apr-14-23,04:26PM,top nontesla ev consumer,0.0,0.735,0.265,0.2023,Positive
+LCID,"Lucid stock slides as EV deliveries slip, Marathon Digital rallies as bitcoin rises above $30,000",(Yahoo Finance Video),Apr-14-23,04:26PM,lucid stock slide ev delivery slip marathon digital rally bitcoin rise,0.0,1.0,0.0,0.0,Neutral
+LCID,"Bank stocks rally following earnings data, tech under pressure",(Yahoo Finance Video),Apr-14-23,04:26PM,bank stock rally following earnings data tech pressure,0.216,0.784,0.0,-0.296,Negative
+LCID,"Another EV Start-up Has Cash, Production Problems.  Its Stock Is Diving.",(Barrons.com),Apr-14-23,04:26PM,another ev startup cash production problem stock diving,0.208,0.692,0.1,-0.34,Negative
+LCID,"Lucid Announces Q1 Production & Deliveries, Sets Date for First Quarter 2023 Results",(PR Newswire),Apr-13-23,04:05PM,lucid announces q production delivery set date first quarter result,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid Announces the 2023 'Dream Ahead Tour,' an Opportunity to Drive the Award-Winning Lucid Air in 40+ U.S. Cities",(PR Newswire),Apr-13-23,04:05PM,lucid announces dream ahead tour opportunity drive awardwinning lucid air u city,0.0,0.78,0.22,0.5859,Positive
+LCID,Road Test: The Lucid Air Grand Touring Performance,(Yahoo Finance Video),Apr-11-23,04:52PM,road test lucid air grand touring performance,0.0,0.7,0.3,0.4588,Positive
+LCID,Lucid Air Wins 2023 World Luxury Car of the Year,(PR Newswire),Apr-05-23,01:54PM,lucid air win world luxury car year,0.0,0.709,0.291,0.5719,Positive
+LCID,"Lucid Stock: A High-Risk, High-Reward EV Play",(TipRanks),Mar-30-23,03:52PM,lucid stock highrisk highreward ev play,0.0,0.676,0.324,0.34,Positive
+LCID,Lucid Group Stock Extends Rout Amid Layoff Plans,(Schaeffer's Investment Research),Mar-29-23,01:41PM,lucid group stock extends rout amid layoff plan,0.0,0.824,0.176,0.128,Positive
+LCID,"EV Startup Lucid Slashes 18% of Workforce, Cuts Include Executives",(The Wall Street Journal),Mar-28-23,05:28PM,ev startup lucid slash workforce cut include executive,0.333,0.667,0.0,-0.4588,Negative
+LCID,"EV Startup Lucid Cuts 18% of Workforce, Including Some Executives",(The Wall Street Journal),Mar-28-23,05:28PM,ev startup lucid cut workforce including executive,0.196,0.804,0.0,-0.296,Negative
+LCID,"Sorry, LCID Stock Investors. Dont Expect Much From Lucid.",(InvestorPlace),Mar-28-23,05:28PM,sorry lcid stock investor dont expect much lucid,0.14,0.86,0.0,-0.0772,Negative
+LCID,Lucid recalls Air sedans over power loss risks,(Yahoo Finance Video),Mar-27-23,04:33PM,lucid recall air sedan power loss risk,0.423,0.577,0.0,-0.5267,Negative
+LCID,"Doug DeMuro talks Cars & Bids, Teslas competition, and why analog cars are the next big bet",(Yahoo Finance),Mar-18-23,01:59PM,doug demuro talk car bid tesla competition analog car next big bet,0.0,1.0,0.0,0.0,Neutral
+LCID,"Lucid Opens New Retail Studio Location in California, at The Village at Corte Madera in Marin County",(PR Newswire),Mar-17-23,09:00AM,lucid open new retail studio location california village corte madera marin county,0.0,1.0,0.0,0.0,Neutral
+LCID,Lucid Stock Investors Need to Buckle Up for a Bumpy Ride,(InvestorPlace),Mar-07-23,06:00AM,lucid stock investor need buckle bumpy ride,0.0,1.0,0.0,0.0,Neutral
+LCID,EV Startups Brace for Another Tough Year as Cash Dwindles,(The Wall Street Journal),Mar-06-23,04:32PM,ev startup brace another tough year cash dwindles,0.143,0.857,0.0,-0.128,Negative
+LCID,Ford's 'balanced' electric bet faces crucial 2023 as restructuring takes hold,(Yahoo Finance),Mar-05-23,10:24AM,ford balanced electric bet face crucial restructuring take hold,0.0,1.0,0.0,0.0,Neutral
+LCID,Is Lucid (LCID) Stock a Buy? Heres My Call.,(InvestorPlace),Feb-27-23,11:52AM,lucid lcid stock buy here call,0.0,1.0,0.0,0.0,Neutral
+LCID,"Move Over EVs, Hybrids Are Hot in China",(The Wall Street Journal),Feb-27-23,11:52AM,move ev hybrid hot china,0.0,1.0,0.0,0.0,Neutral
+LCID,"Biggest takeaways from the automotive, EV industry this earnings season",(Yahoo Finance Video),Feb-23-23,04:17PM,biggest takeaway automotive ev industry earnings season,0.0,1.0,0.0,0.0,Neutral
+LCID,"EV Stocks Fall After Lucid Cuts Production Target, Lordstown Component Issues",(The Wall Street Journal),Feb-23-23,04:17PM,ev stock fall lucid cut production target lordstown component issue,0.18,0.82,0.0,-0.296,Negative
+LCID,Lucid stock declines after missing on Q4 revenue estimates,(Yahoo Finance Video),Feb-23-23,04:17PM,lucid stock decline missing q revenue estimate,0.216,0.784,0.0,-0.296,Negative
+LCID,EV Startups Have a New Bottleneck: Demand,(The Wall Street Journal),Feb-23-23,04:17PM,ev startup new bottleneck demand,0.231,0.769,0.0,-0.128,Negative
+LCID,EV Startup Lucid Aims to Nearly Double Production in 2023,(The Wall Street Journal),Feb-22-23,09:14PM,ev startup lucid aim nearly double production,0.0,1.0,0.0,0.0,Neutral
+LCID,"Yahoo Finance Trending Tickers: Nvidia, Lucid, Etsy, Bumble",(Yahoo Finance),Feb-22-23,09:14PM,yahoo finance trending ticker nvidia lucid etsy bumble,0.0,1.0,0.0,0.0,Neutral
+LCID,"Stocks moving in after-hours: Nvidia, Lucid, Etsy, Bumble",(Yahoo Finance),Feb-22-23,09:14PM,stock moving afterhours nvidia lucid etsy bumble,0.0,1.0,0.0,0.0,Neutral
